@@ -1,0 +1,256 @@
+## Security Tools
+**All links, the content behind and the opinions there are not mine.
+If you follow an external link, it is your problem, not mine if you do not like, what you find there.
+Please be aware, that this is just a list of topics I find interesting.**
+
+- - -
+
+**Coding**
+
+  * A project for allowing EDK-II Development with Visual Studio<br>
+      [VisualUefi - github](https://github.com/ionescu007/VisualUefi) (2017-10-03)
+  * Unified & Consistent Whois API & Whois Parser System<br>
+      [WhoisXMLAPI - WhoisXMLAPI](https://www.whoisxmlapi.com/) (2017-11-22)
+  * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
+      [libprotection-dotnet - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
+
+- - -
+
+**Data Mining**
+
+  * TraceWrangler - Packet Capture Toolkit<br>
+      [TraceWrangler - Jasper](https://www.tracewrangler.com/) (2017-09-13)
+
+- - -
+
+**Fun**
+
+  * Fuck Off As A Service<br>
+      [FOAAS - foaas.com](https://www.foaas.com/) (2017-11-22)
+
+- - -
+
+**Hacking**
+
+  * Blind SQL injection exploitation tool written in ruby.<br>
+      [BSQLinjector - github](https://github.com/enjoiz/BSQLinjector) (2017-09-27)
+  * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
+      [DKMC - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
+  * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
+      [Docker Daemon - Exploit-DB](https://www.exploit-db.com/exploits/42650/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-09-13)
+  * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
+      [GoCrack - github](https://github.com/fireeye/gocrack) (2017-11-01)
+  * Encrypted exploit delivery for the masses<br>
+      [Ironsquirrel - github](https://github.com/MRGEffitas/Ironsquirrel) (2017-11-08)
+  * Krack AP module for Scapy<br>
+      [Krack AP module - github](https://github.com/secdev/scapy/pull/928) (2017-11-01)
+  * WPA, the Krack Attack, and Kismet<br>
+      [Krack Attack and Kismet - Kismet Wireless](http://blog.kismetwireless.net/2017/10/wpa-krack-attack-and-kismet.html) (2017-10-18)
+  * Lilith, The Open Source C++ Remote Administration Tool (RAT)<br>
+      [Lilith - github](https://github.com/werkamsus/Lilith) (2017-11-08)
+  * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
+      [Posh-SSH - KITPLOIT](http://www.kitploit.com/2017/08/posh-ssh-powershell-module-for.html) (2017-08-30)
+  * The Social-Engineer Toolkit (SET) repository from TrustedSec<br>
+      [SET - github](https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/payloads/powershell/powershell_shellcode.code) (2017-08-09)
+  * Seamlessly spy on SSH session like it is your tty<br>
+      [SSH Pry Spy - github](https://github.com/nopernik/sshpry) (2017-09-27)
+  * Snifflab: An environment for testing mobile devices<br>
+      [Snifflab - Open Effect](https://openeffect.ca/snifflab-an-environment-for-testing-mobile-devices/) (2017-11-22)
+  * UACMe – Defeat Windows User Account Control (UAC)<br>
+      [UACMe - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/uacme-defeat-windows-user-account-control-uac/) (2017-08-23)
+  * WiNX Portable: Runs for hours on a battery! #WiFi 0wnage on the move!<br>
+      [WiNX Portable - Hacker Arsenal](https://www.hackerarsenal.com/collections/frontpage/products/winx-portable) (2017-08-23)
+  * Nice collection of malware crypters<br>
+      [Windows Crypter - github](https://github.com/malwares/Crypter) (2017-11-08)
+  * Microsoft Windows - Escalate UAC Protection Bypass (Via COM Handler Hijack) (Metasploit)<br>
+      [Windows UAC Bypass - Exploit-DB](https://www.exploit-db.com/exploits/42540/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-08-23)
+  * GPU implementation of the Argon2 password hashing function<br>
+      [argon2-gpu - github](https://gitlab.com/omos/argon2-gpu) (2017-12-06)
+  * A CMS Exploit Framework<br>
+      [cmsPoc - github](https://github.com/CHYbeta/cmsPoc) (2017-12-06)
+  * A Python Package for creating backdoors!<br>
+      [covertutils - 0x00sec](https://0x00sec.org/t/a-python-package-for-creating-backdoors/3170) (2017-08-09)
+  * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
+      [dnstwist - github](https://github.com/elceef/dnstwist) (2017-12-13)
+  * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
+      [krackattacks - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
+  * Reaver – WPS Pin Hacking Tool<br>
+      [reaver - github](https://github.com/t6x/reaver-wps-fork-t6x) (2017-09-05)
+
+- - -
+
+**Pentest**
+
+  * Official Black Hat Arsenal Security Tools Repository<br>
+      [Black Hat Arsenal Tools - github](https://github.com/toolswatch/blackhat-arsenal-tools) (2017-10-11)
+  * Burpa: A Burp Suite Automation Tool<br>
+      [Burpa - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
+  * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
+      [FruityWifi - github](https://github.com/xtr4nge/FruityWifi) (2017-12-06)
+  * Kali Linux 2017.2 Release<br>
+      [KaLi Linux - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
+  * SIP-Based Audit and Attack Tool<br>
+      [Mr.SIP - github](https://github.com/meliht/mr.sip) (2017-11-29)
+  * NoSQLMap – Automated NoSQL Exploitation Tool<br>
+      [NoSQLMap - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/nosqlmap-automated-nosql-exploitation-tool/) (2017-08-23)
+  * Introducing Nzyme: WiFi Monitoring, Intrusion Detection And Forensics<br>
+      [Nzyme - wtf.horse](https://wtf.horse/2017/10/02/introducing-nzyme-wifi-802-11-frame-recording-and-forensics/) (2017-10-03)
+  * SAML Raider – SAML2 Security Testing Burp Extension<br>
+      [SAML Raider - Darknet.org.uk](https://www.darknet.org.uk/2017/08/saml-raider-saml2-security-testing-burp-extension/) (2017-08-16)
+  * (SQLiv) massive SQL injection vulnerability scanner<br>
+      [SQLiv - github](https://github.com/Hadesy2k/sqliv) (2017-10-25)
+  * Spaghetti - Web Application Security Scanner<br>
+      [Spaghetti - github](https://github.com/m4ll0k/Spaghetti) (2017-10-18)
+  * VulnScan – Automated Triage and Root Cause Analysis of Memory Corruption Issues<br>
+      [VulnScan - Microsoft TechNet](https://blogs.technet.microsoft.com/srd/2017/10/03/vulnscan-automated-triage-and-root-cause-analysis-of-memory-corruption-issues/) (2017-10-25)
+  * WAFNinja is a tool which contains two functions to attack Web Application Firewalls.<br>
+      [WAFNinja - github](https://github.com/khalilbijjou/WAFNinja) (2017-11-08)
+  * WPSeku - Wordpress Security Scanner<br>
+      [WPSeku - github](https://github.com/m4ll0k/WPSeku) (2017-11-08)
+  * The Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.<br>
+      [Yuki Chan - github](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) (2017-10-03)
+  * The OWASP ZAP Attack Proxy core project<br>
+      [ZAP Attack Proxy - github](https://github.com/zaproxy/zaproxy) (2017-10-18)
+  * Auto Scanning to SSL Vulnerability<br>
+      [a2sv - github](https://github.com/hahwul/a2sv) (2017-10-11)
+  * BlueCoat Filesystem Manager<br>
+      [bcfs-manager - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
+  * jSQL – Automatic SQL Injection Tool In Java<br>
+      [jSQL - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
+  * jSQL Injection is a Java application for automatic SQL database injection.<br>
+      [jsq-injection - github](https://github.com/ron190/jsql-injection) (2017-10-11)
+  * DNS Masquerading Server for Windows<br>
+      [mod0Umleitung - github](https://modzero.github.io/mod0Umleitung/) (2017-08-23)
+  * Update for Mod0Umleitung available<br>
+      [mod0Umleitung - github](https://modzero.github.io/mod0Umleitung/) (2017-08-30)
+  * Remote Desktop Protocol in Twisted Python<br>
+      [rdpy - github](https://github.com/citronneur/rdpy) (2017-11-22)
+  * Nikto for Windows with some extra features.<br>
+      [wikto - github](https://github.com/sensepost/wikto/) (2017-09-05)
+
+- - -
+
+**Reconnaissance**
+
+  * Security Tool to Look For Interesting Files in S3 Buckets<br>
+      [AWSBucketDump - github](https://github.com/jordanpotti/AWSBucketDump) (2017-09-20)
+  * A BLE scanner for "smart" devices hacking<br>
+      [BLE Scanner - github](https://github.com/evilsocket/bleah) (2017-09-27)
+  * BTLE packet sniffer based on HACKRF (function and performance similar to TI's packet sniffer)<br>
+      [BTLE Sniffer - github](https://sdr-x.github.io/BTLE-SNIFFER/) (2017-09-27)
+  * Bloodhound is an incredible tool to probe your Active Directory environment<br>
+      [BloodHound - Wald0](https://wald0.com/?p=68) (2017-09-13)
+  * The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).<br>
+      [CISCO CSIRT - github](https://github.com/ciscocsirt/gosint) (2017-08-09)
+  * CapLoader is designed to simplify complex tasks, such as digging through gigabytes of PCAP data looking for traffic that sticks out or shouldn’t be there<br>
+      [CapLoader - NetReSec](https://www.netresec.com/?page=Blog&month=2017-10&post=CapLoader-1-6-Released) (2017-10-11)
+  * Exitmap - A Fast and Modular Scanner for TOR Exit Relays<br>
+      [Exitmap - KitPloit](http://www.kitploit.com/2017/10/exitmap-fast-and-modular-scanner-for.html) (2017-11-01)
+  * Tool for advanced mining for content on Github<br>
+      [GitMiner - github](https://github.com/UnkL4b/GitMiner) (2017-08-30)
+  * Iris Investigation Platform<br>
+      [Iris - Domaintools](https://www.domaintools.com/products/iris/) (2017-11-22)
+  * Investigate malicious Windows logon by visualizing and analyzing Windows event log<br>
+      [LogonTracer - github](https://github.com/JPCERTCC/LogonTracer) (2017-12-06)
+  * AlienVault OSSIM: The World’s Most Widely Used Open Source SIEM<br>
+      [OSSIM - Alien Vault](https://www.alienvault.com/products/ossim) (2017-10-25)
+  * Fast subdomains enumeration tool for penetration testers<br>
+      [Sublist3r - github](https://github.com/aboul3la/Sublist3r) (2017-11-22)
+  * Scalable, Open Source and Free Security Incident Response Solutions<br>
+      [TheHive Project - TheHive Project](https://blog.thehive-project.org/tag/malware-analysis/) (2017-11-22)
+  * A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.<br>
+      [VHostScan - github](https://github.com/codingo/VHostScan) (2017-10-11)
+  * Find interesting Amazon S3 Buckets by watching certificate transparency logs<br>
+      [bucket-stream - github](https://github.com/eth0izzle/bucket-stream) (2017-12-06)
+  * dcrawl – Web Crawler For Unique Domains<br>
+      [dcrawl - github](https://github.com/kgretzky/dcrawl) (2017-09-13)
+  * DNSDB query scripts<br>
+      [dnsdb-query - github](https://github.com/dnsdb/dnsdb-query) (2017-11-22)
+  * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
+      [dnstwist - github](https://github.com/elceef/dnstwist) (2017-11-08)
+  * Get control of your servers. Simple. Effective. Awesome!<br>
+      [netdata - github](https://github.com/firehol/netdata/) (2017-12-06)
+  * The aim of Wordsmith is to assist with creating tailored wordlists. This is mostly based on geolocation.<br>
+      [wordsmith - github](https://github.com/skahwah/wordsmith) (2017-10-11)
+  * Yalda, Automated Bulk Intelligence<br>
+      [yalda - github](https://github.com/fideliscyber/yalda) (2017-11-22)
+
+- - -
+
+**Reversing**
+
+  * Adlice PEViewer - The best PE analysis toolkit<br>
+      [Adlice PEViewer - Adlice](https://www.adlice.com/download/roguekillerpe/) (2017-10-03)
+  * Analyzing JPEG files<br>
+      [Analyzing JPEG files - SANS/Didier Stevens](https://isc.sans.edu/diary/rss/22806) (2017-09-13)
+  * Binary Ninja Plugins<br>
+      [Binary Ninja Plugins - github](https://github.com/Vector35/community-plugins/tree/master/plugins) (2017-11-22)
+  * Bytecode Viewer - A Java 8 Jar & Android Apk Reverse Engineering Suite (Decompiler, Editor, Debugger & More)<br>
+      [Bytecode Viewer - KITPLOIT](http://www.kitploit.com/2017/08/bytecode-viewer-java-8-jar-android-apk.html) (2017-08-23)
+  * Home of the dionaea honeypot<br>
+      [Dionaea Honeypot - github](https://github.com/DinoTools/dionaea) (2017-09-27)
+  * Droidefense: Advance Android Malware Analysis Framework<br>
+      [Droidefense - github](https://github.com/droidefense/engine) (2017-12-06)
+  * A framework to study Exploit Kits<br>
+      [EKFiddle - github](https://github.com/malwareinfosec/EKFiddle) (2017-09-27)
+  * Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection<br>
+      [Evalyzer - github](https://github.com/szimeus/evalyzer) (2017-10-25)
+  * A set of exploitation/reversing aids for IDA<br>
+      [IDA aids - github](https://github.com/1111joe1111/ida_ea) (2017-10-18)
+  * The goal of the tool is to monitor requests received by selected device objects or kernel drivers<br>
+      [IRPMon - github](https://github.com/MartinDrab/IRPMon) (2017-11-08)
+  * Lighthouse - Code Coverage Explorer for IDA Pro<br>
+      [Lighthouse - github](https://github.com/gaasedelen/lighthouse) (2017-10-03)
+  * MalShare - Now with search<br>
+      [MalShare - MalShare](https://malshare.com/search.php) (2017-10-03)
+  * PowerShell V3.0 or higher module for interacting with the VirtusTotal service to analize suspicious files and URLs using either the Public or Private Version 2 API provided by VirusTotal.<br>
+      [Posh-VirusTotal - github](https://github.com/darkoperator/Posh-VirusTotal) (2017-12-06)
+  * RetDec is a retargetable machine-code decompiler based on LLVM<br>
+      [RetDec - github](https://github.com/avast-tl/retdec) (2017-12-13)
+  * WinDbg Preview<br>
+      [WinDbg Preview - Microsoft Blog](https://www.microsoft.com/en-us/store/p/windbg-preview/9pgjgd53tn86) (2017-09-27)
+  * New WinDbg available in preview!<br>
+      [WinDbg Preview Version - Microsoft Blog](https://blogs.msdn.microsoft.com/windbg/2017/08/28/new-windbg-available-in-preview/) (2017-08-30)
+  * A Qt and C++ GUI for radare2 reverse engineering framework<br>
+      [cutter - github](https://github.com/radareorg/cutter) (2017-12-06)
+  * .NET debugger and assembly editor<br>
+      [dnSpy - github](https://github.com/0xd4d/dnSpy) (2017-10-11)
+  * IDA pro plugin to find crypto constants (and more)<br>
+      [findcrypt-yara - github](https://github.com/polymorf/findcrypt-yara) (2017-12-06)
+  * 12,805 Free Yara rules created by http://icewater.io<br>
+      [icewater yara rules - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
+  * PowerShell oneliner to retrieve wdigest passwords from the memory<br>
+      [mimiDbg - github](https://github.com/giMini/mimiDbg) (2017-12-13)
+  * pestudio is used by many Computer Emergency Response Teams (CERT) worldwide in order to perform malware initial assessments<br>
+      [pestudio - Winitor](https://winitor.com/binaries.html) (2017-11-01)
+  * REmatch, a simple binary diffing utility that just works.<br>
+      [rematch - github](https://github.com/nirizr/rematch) (2017-12-13)
+  * You can use ropper to display information about files in different file formats and you can find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC)<br>
+      [ropper - github](https://github.com/sashs/ropper) (2017-11-01)
+  * A tool for passive data capture and reconnaissance of serial flash chips<br>
+      [sniffROM - github](https://github.com/alainiamburg/sniffROM/blob/master/README.md#sniffrom) (2017-09-13)
+
+- - -
+
+**Security**
+
+  * Arduino Entropy Library (Temporary Fork)<br>
+      [Arduino-Entropy-Library - github](https://github.com/pmjdebruijn/Arduino-Entropy-Library) (2017-12-06)
+  * USB Key Cleaner: CIRCLean<br>
+      [CirClean - n0where.net](https://n0where.net/usb-key-cleaner-circlean/) (2017-10-11)
+  * A Hardware Privacy Monitor for iPhones<br>
+      [Introspection Engine - Bruce Schneier](https://www.schneier.com/blog/archives/2017/09/a_hardware_priv.html) (2017-09-13)
+  * PORTAL of Pi - RaspberyPi based PORTAL device. Certified UNIX Network Technicians only!<br>
+      [PORTAL of Pi - github](https://github.com/grugq/PORTALofPi) (2017-08-30)
+  * Syscall Monitor is a system monitor program (like Sysinternal's Process Monitor) using Intel VT-X/EPT for Windows7+<br>
+      [Syscall Monitor - github](https://github.com/hzqst/Syscall-Monitor) (2017-09-27)
+  * Sysinternals Update: Sysmon v6.10, Process Monitor v3.40, Autoruns v13.80, AccessChk v6.11<br>
+      [Sysinternals Update - TechNet Microsoft](https://blogs.technet.microsoft.com/sysinternals/2017/09/12/sysinternals-update-sysmon-v6-1-process-monitor-v3-4-autoruns-v13-8-accesschk-v6-11/) (2017-09-13)
+  * USB Canary v2.0.0 is officially been released with OSX support!<br>
+      [USB Canary - github](https://github.com/errbufferoverfl/usb-canary) (2017-10-11)
+  * Chrome plugin that automatically checks software vulnerabilities in browsed websites<br>
+      [Vulners Web Scanner - Google](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) (2017-11-01)
+  * Win32 port of OpenSSH<br>
+      [Win32-OpenSSH - github](https://github.com/PowerShell/Win32-OpenSSH) (2017-12-06)
+  * Keybase launches encrypted git<br>
+      [encrypted git - keybase.io](https://keybase.io/blog/encrypted-git-for-everyone) (2017-10-11)
