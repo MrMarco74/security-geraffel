@@ -32,6 +32,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Hacking**
 
+  * A toolset to make a system look as if it was the victim of an APT attack<br>
+      [**APTSimulator** - github](https://github.com/Neo23x0/APTSimulator) (2018-02-07)
   * Blind SQL injection exploitation tool written in ruby.<br>
       [**BSQLinjector** - github](https://github.com/enjoiz/BSQLinjector) (2017-09-27)
   * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
@@ -76,6 +78,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
   * Reaver – WPS Pin Hacking Tool<br>
       [**reaver** - github](https://github.com/t6x/reaver-wps-fork-t6x) (2017-09-05)
+  * Proof of concept attack and detection for ROBOT (Return Of Bleichenbacher's Oracle Threat).<br>
+      [**robot-detect** - github](https://github.com/robotattackorg/robot-detect) (2018-02-07)
 
 - - -
 
@@ -115,8 +119,14 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ZAP Attack Proxy** - github](https://github.com/zaproxy/zaproxy) (2017-10-18)
   * Auto Scanning to SSL Vulnerability<br>
       [**a2sv** - github](https://github.com/hahwul/a2sv) (2017-10-11)
+  * Generates permutations, alterations and mutations of subdomains and then resolves them<br>
+      [**altdns** - github](https://github.com/infosec-au/altdns) (2018-02-07)
   * BlueCoat Filesystem Manager<br>
       [**bcfs-manager** - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
+  * Stealing CSRF tokens with CSS injection (without iFrames)<br>
+      [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
+  * ommand-line tool to scan Google search results for vulnerabilities<br>
+      [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
   * jSQL Injection is a Java application for automatic SQL database injection.<br>
@@ -127,6 +137,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-30)
   * Remote Desktop Protocol in Twisted Python<br>
       [**rdpy** - github](https://github.com/citronneur/rdpy) (2017-11-22)
+  * Simple program that allows you to run commands as another user without being prompted for their password.<br>
+      [**runsharp** - github](https://github.com/fullmetalcache/runsharp) (2018-02-07)
+  * display unicode character properties<br>
+      [**unicode** - github](https://github.com/garabik/unicode) (2018-02-07)
   * Nikto for Windows with some extra features.<br>
       [**wikto** - github](https://github.com/sensepost/wikto/) (2017-09-05)
 
@@ -203,6 +217,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Evalyzer** - github](https://github.com/szimeus/evalyzer) (2017-10-25)
   * A set of exploitation/reversing aids for IDA<br>
       [**IDA aids** - github](https://github.com/1111joe1111/ida_ea) (2017-10-18)
+  * IDAtropy is a plugin for Hex-Ray's IDA Pro designed to generate charts of entropy and histograms using the power of idapython and matplotlib.<br>
+      [**IDAtropy** - github](https://github.com/danigargu/IDAtropy) (2018-02-07)
   * The goal of the tool is to monitor requests received by selected device objects or kernel drivers<br>
       [**IRPMon** - github](https://github.com/MartinDrab/IRPMon) (2017-11-08)
   * Lighthouse - Code Coverage Explorer for IDA Pro<br>
@@ -229,6 +245,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**gym-malware** - github](https://github.com/endgameinc/gym-malware) (2018-01-31)
   * 12,805 Free Yara rules created by http://icewater.io<br>
       [**icewater yara rules** - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
+  * Kernel Driver Fuzzer<br>
+      [**kDriver-Fuzzer** - github](https://github.com/k0keoyo/kDriver-Fuzzer) (2018-02-07)
+  * Tool for dropping malware from EK<br>
+      [**mal_getter** - github](https://github.com/nao-sec/mal_getter) (2018-02-07)
   * PowerShell oneliner to retrieve wdigest passwords from the memory<br>
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
   * pestudio is used by many Computer Emergency Response Teams (CERT) worldwide in order to perform malware initial assessments<br>
