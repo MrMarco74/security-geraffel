@@ -36,6 +36,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**APTSimulator** - github](https://github.com/Neo23x0/APTSimulator) (2018-02-07)
   * Blind SQL injection exploitation tool written in ruby.<br>
       [**BSQLinjector** - github](https://github.com/enjoiz/BSQLinjector) (2017-09-27)
+  * Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability<br>
+      [**CVE-2018-6871** - github](https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure) (2018-02-14)
   * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
       [**DKMC** - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
   * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
@@ -50,6 +52,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Krack Attack and Kismet** - Kismet Wireless](http://blog.kismetwireless.net/2017/10/wpa-krack-attack-and-kismet.html) (2017-10-18)
   * Lilith, The Open Source C++ Remote Administration Tool (RAT)<br>
       [**Lilith** - github](https://github.com/werkamsus/Lilith) (2017-11-08)
+  * Longtime Sunshine is a proof of concept Nashorn based post exploitation framework. Nashorn is the JavaScript engine that Oracle introduced in Java 8.<br>
+      [**Longtime Sunshine** - github](https://github.com/jacob-baines/longtime-sunshine) (2018-02-14)
+  * Researchers ported the NSA  EternalSynergy, EternalRomance, and EternalChampion to Metasploit<br>
+      [**NSA exploits in Metasploit** - security affairs](http://securityaffairs.co/wordpress/68768/hacking/eternalsynergy-eternalromance-eternalchampion-metasploit.html) (2018-02-14)
+  * FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software<br>
+      [**PCILeech FPGA** - github](https://github.com/ufrisk/pcileech-fpga) (2018-02-14)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
       [**Posh-SSH** - KITPLOIT](http://www.kitploit.com/2017/08/posh-ssh-powershell-module-for.html) (2017-08-30)
   * The Social-Engineer Toolkit (SET) repository from TrustedSec<br>
@@ -76,6 +84,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-12-13)
   * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
+  * Quiet for Android - TCP over sound<br>
+      [**org.quietmodem.Quiet** - github](https://github.com/quiet/org.quietmodem.Quiet) (2018-02-14)
   * Reaver – WPS Pin Hacking Tool<br>
       [**reaver** - github](https://github.com/t6x/reaver-wps-fork-t6x) (2017-09-05)
   * Proof of concept attack and detection for ROBOT (Return Of Bleichenbacher's Oracle Threat).<br>
@@ -125,7 +135,7 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**bcfs-manager** - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
   * Stealing CSRF tokens with CSS injection (without iFrames)<br>
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
-  * ommand-line tool to scan Google search results for vulnerabilities<br>
+  * Command-line tool to scan Google search results for vulnerabilities<br>
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
@@ -201,6 +211,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Adlice PEViewer** - Adlice](https://www.adlice.com/download/roguekillerpe/) (2017-10-03)
   * Analyzing JPEG files<br>
       [**Analyzing JPEG files** - SANS/Didier Stevens](https://isc.sans.edu/diary/rss/22806) (2017-09-13)
+  * Archery is an opensource vulnerability assessment and management tool which helps developers and pentesters to perform scans and manage vulnerabilities<br>
+      [**Archery** - Archery](http://archerysec.info/) (2018-02-14)
   * Binary Ninja Plugins<br>
       [**Binary Ninja Plugins** - github](https://github.com/Vector35/community-plugins/tree/master/plugins) (2017-11-22)
   * Bytecode Viewer - A Java 8 Jar & Android Apk Reverse Engineering Suite (Decompiler, Editor, Debugger & More)<br>
@@ -225,16 +237,22 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Lighthouse** - github](https://github.com/gaasedelen/lighthouse) (2017-10-03)
   * MalShare - Now with search<br>
       [**MalShare** - MalShare](https://malshare.com/search.php) (2017-10-03)
+  * Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness<br>
+      [**PortEx** - github](https://github.com/katjahahn/PortEx) (2018-02-14)
   * PowerShell V3.0 or higher module for interacting with the VirtusTotal service to analize suspicious files and URLs using either the Public or Private Version 2 API provided by VirusTotal.<br>
       [**Posh-VirusTotal** - github](https://github.com/darkoperator/Posh-VirusTotal) (2017-12-06)
   * RetDec is a retargetable machine-code decompiler based on LLVM<br>
       [**RetDec** - github](https://github.com/avast-tl/retdec) (2017-12-13)
+  * FLARE IDA Pro Script Series: Simplifying Graphs in IDA<br>
+      [**SimplifyGraph** - FireEye](https://www.fireeye.com/blog/threat-research/2018/01/simplifying-graphs-in-ida.html) (2018-02-14)
   * Android application hooking tool based on VirtualApp<br>
       [**VirtualHook** - github](https://github.com/rk700/VirtualHook) (2018-01-31)
   * WinDbg Preview<br>
       [**WinDbg Preview** - Microsoft Blog](https://www.microsoft.com/en-us/store/p/windbg-preview/9pgjgd53tn86) (2017-09-27)
   * New WinDbg available in preview!<br>
       [**WinDbg Preview Version** - Microsoft Blog](https://blogs.msdn.microsoft.com/windbg/2017/08/28/new-windbg-available-in-preview/) (2017-08-30)
+  * ActiveMime File Format Documentation<br>
+      [**activemime-format** - github](https://github.com/idiom/activemime-format) (2018-02-14)
   * A Qt and C++ GUI for radare2 reverse engineering framework<br>
       [**cutter** - github](https://github.com/radareorg/cutter) (2017-12-06)
   * .NET debugger and assembly editor<br>
