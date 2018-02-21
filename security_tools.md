@@ -314,3 +314,4 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Win32-OpenSSH** - github](https://github.com/PowerShell/Win32-OpenSSH) (2017-12-06)
   * Keybase launches encrypted git<br>
       [**encrypted git** - keybase.io](https://keybase.io/blog/encrypted-git-for-everyone) (2017-10-11)
+
