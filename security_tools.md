@@ -60,6 +60,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PCILeech FPGA** - github](https://github.com/ufrisk/pcileech-fpga) (2018-02-14)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
       [**Posh-SSH** - KITPLOIT](http://www.kitploit.com/2017/08/posh-ssh-powershell-module-for.html) (2017-08-30)
+  * Automated Generation of Proofs of Vulnerability with S2E<br>
+      [**S2E Docs** - github](https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst) (2018-02-21)
   * The Social-Engineer Toolkit (SET) repository from TrustedSec<br>
       [**SET** - github](https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/payloads/powershell/powershell_shellcode.code) (2017-08-09)
   * Seamlessly spy on SSH session like it is your tty<br>
@@ -76,6 +78,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Windows UAC Bypass** - Exploit-DB](https://www.exploit-db.com/exploits/42540/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-08-23)
   * GPU implementation of the Argon2 password hashing function<br>
       [**argon2-gpu** - github](https://gitlab.com/omos/argon2-gpu) (2017-12-06)
+  * Just drop anything I have now about ASLR bypassing and fixing ;)<br>
+      [**aslur** - github](https://github.com/blackzert/aslur) (2018-02-21)
   * A CMS Exploit Framework<br>
       [**cmsPoc** - github](https://github.com/CHYbeta/cmsPoc) (2017-12-06)
   * A Python Package for creating backdoors!<br>
@@ -97,6 +101,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * Official Black Hat Arsenal Security Tools Repository<br>
       [**Black Hat Arsenal Tools** - github](https://github.com/toolswatch/blackhat-arsenal-tools) (2017-10-11)
+  * The Unofficial Burp Extension for DNSDumpster.com<br>
+      [**Bumpster** - github](https://github.com/markclayton/bumpster) (2018-02-21)
   * Burpa: A Burp Suite Automation Tool<br>
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
@@ -111,6 +117,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Nzyme** - wtf.horse](https://wtf.horse/2017/10/02/introducing-nzyme-wifi-802-11-frame-recording-and-forensics/) (2017-10-03)
   * Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. <br>
       [**PRET** - github](https://github.com/RUB-NDS/PRET) (2018-01-31)
+  * PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction<br>
+      [**PcapXray** - github](https://github.com/Srinivas11789/PcapXray) (2018-02-21)
   * SAML Raider – SAML2 Security Testing Burp Extension<br>
       [**SAML Raider** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/saml-raider-saml2-security-testing-burp-extension/) (2017-08-16)
   * (SQLiv) massive SQL injection vulnerability scanner<br>
@@ -229,6 +237,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Evalyzer** - github](https://github.com/szimeus/evalyzer) (2017-10-25)
   * A set of exploitation/reversing aids for IDA<br>
       [**IDA aids** - github](https://github.com/1111joe1111/ida_ea) (2017-10-18)
+  * IDA Python Embedded Toolkit – IDAPython scripts for automating analysis of firmware of embedded devices<br>
+      [**IDAPythonEmbeddedToolkit** - github](https://github.com/maddiestone/IDAPythonEmbeddedToolkit) (2018-02-21)
   * IDAtropy is a plugin for Hex-Ray's IDA Pro designed to generate charts of entropy and histograms using the power of idapython and matplotlib.<br>
       [**IDAtropy** - github](https://github.com/danigargu/IDAtropy) (2018-02-07)
   * The goal of the tool is to monitor requests received by selected device objects or kernel drivers<br>
@@ -269,6 +279,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mal_getter** - github](https://github.com/nao-sec/mal_getter) (2018-02-07)
   * PowerShell oneliner to retrieve wdigest passwords from the memory<br>
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
+  * oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. <br>
+      [**oletools** - github](https://github.com/decalage2/oletools) (2018-02-21)
   * pestudio is used by many Computer Emergency Response Teams (CERT) worldwide in order to perform malware initial assessments<br>
       [**pestudio** - Winitor](https://winitor.com/binaries.html) (2017-11-01)
   * REmatch, a simple binary diffing utility that just works.<br>
