@@ -7,6 +7,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Coding**
 
+  * VisualStudio Code for Linux<br>
+      [**VisualStudio Code for Linux** - Microsoft](https://code.visualstudio.com/) (2018-03-07)
   * A project for allowing EDK-II Development with Visual Studio<br>
       [**VisualUefi** - github](https://github.com/ionescu007/VisualUefi) (2017-10-03)
   * Unified & Consistent Whois API & Whois Parser System<br>
@@ -20,6 +22,13 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * TraceWrangler - Packet Capture Toolkit<br>
       [**TraceWrangler** - Jasper](https://www.tracewrangler.com/) (2017-09-13)
+
+- - -
+
+**Forensic**
+
+  * Bellingcat’s Digital Forensics Tools<br>
+      [**Bellingcat’s Digital Forensics Tools** - Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) (2018-03-07)
 
 - - -
 
@@ -42,10 +51,14 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**DKMC** - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
   * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
       [**Docker Daemon** - Exploit-DB](https://www.exploit-db.com/exploits/42650/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-09-13)
+  * Find exploits in local and online databases instantly<br>
+      [**Findsploit** - github](https://github.com/1N3/Findsploit) (2018-03-07)
   * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
       [**GoCrack** - github](https://github.com/fireeye/gocrack) (2017-11-01)
   * Encrypted exploit delivery for the masses<br>
       [**Ironsquirrel** - github](https://github.com/MRGEffitas/Ironsquirrel) (2017-11-08)
+  * Kali Linux for WSL now available in the Windows Store<br>
+      [**Kali Linux for WSL** - Microsoft](https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/) (2018-03-07)
   * Krack AP module for Scapy<br>
       [**Krack AP module** - github](https://github.com/secdev/scapy/pull/928) (2017-11-01)
   * WPA, the Krack Attack, and Kismet<br>
@@ -94,6 +107,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**reaver** - github](https://github.com/t6x/reaver-wps-fork-t6x) (2017-09-05)
   * Proof of concept attack and detection for ROBOT (Return Of Bleichenbacher's Oracle Threat).<br>
       [**robot-detect** - github](https://github.com/robotattackorg/robot-detect) (2018-02-07)
+  * Interactive shellcoding environment to easily craft shellcodes<br>
+      [**shellen** - github](https://github.com/merrychap/shellen) (2018-03-07)
 
 - - -
 
@@ -147,6 +162,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
+  * OWASP Joomla Vulnerability Scanner Project<br>
+      [**joomscan** - github](https://github.com/rezasp/joomscan) (2018-03-07)
   * jSQL Injection is a Java application for automatic SQL database injection.<br>
       [**jsq-injection** - github](https://github.com/ron190/jsql-injection) (2017-10-11)
   * DNS Masquerading Server for Windows<br>
@@ -166,6 +183,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Reconnaissance**
 
+  * The ATT&CK™ Navigator: A New Open Source Project<br>
+      [**ATT&CK™ Navigator** - MITRE](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-attck%E2%84%A2-navigator-a-new-open-source) (2018-03-07)
   * Security Tool to Look For Interesting Files in S3 Buckets<br>
       [**AWSBucketDump** - github](https://github.com/jordanpotti/AWSBucketDump) (2017-09-20)
   * A BLE scanner for "smart" devices hacking<br>
@@ -182,6 +201,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Exitmap** - KitPloit](http://www.kitploit.com/2017/10/exitmap-fast-and-modular-scanner-for.html) (2017-11-01)
   * Tool for advanced mining for content on Github<br>
       [**GitMiner** - github](https://github.com/UnkL4b/GitMiner) (2017-08-30)
+  * Harpoon: an OSINT / Threat Intelligence tool<br>
+      [**Harpoon** - Tek's blog](https://www.randhome.io/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/) (2018-03-07)
   * Iris Investigation Platform<br>
       [**Iris** - Domaintools](https://www.domaintools.com/products/iris/) (2017-11-22)
   * Investigate malicious Windows logon by visualizing and analyzing Windows event log<br>
@@ -204,6 +225,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dnsdb-query** - github](https://github.com/dnsdb/dnsdb-query) (2017-11-22)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-11-08)
+  * Searches full repo history for secrets and keys<br>
+      [**gitleaks** - github](https://github.com/zricethezav/gitleaks) (2018-03-07)
   * Get control of your servers. Simple. Effective. Awesome!<br>
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
   * The aim of Wordsmith is to assist with creating tailored wordlists. This is mostly based on geolocation.<br>
@@ -235,6 +258,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**EKFiddle** - github](https://github.com/malwareinfosec/EKFiddle) (2017-09-27)
   * Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection<br>
       [**Evalyzer** - github](https://github.com/szimeus/evalyzer) (2017-10-25)
+  * IDA Pro 7.1 released<br>
+      [**IDA Pro 7.1** - Hex-Rays](https://www.hex-rays.com/products/ida/7.1/index.shtml) (2018-03-07)
   * A set of exploitation/reversing aids for IDA<br>
       [**IDA aids** - github](https://github.com/1111joe1111/ida_ea) (2017-10-18)
   * IDA Python Embedded Toolkit – IDAPython scripts for automating analysis of firmware of embedded devices<br>
@@ -245,14 +270,22 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**IRPMon** - github](https://github.com/MartinDrab/IRPMon) (2017-11-08)
   * Lighthouse - Code Coverage Explorer for IDA Pro<br>
       [**Lighthouse** - github](https://github.com/gaasedelen/lighthouse) (2017-10-03)
+  * Malware detection using learning and information retrieval for Android<br>
+      [**MADLIRA** - github](https://github.com/dkhuuthe/MADLIRA) (2018-03-07)
   * MalShare - Now with search<br>
       [**MalShare** - MalShare](https://malshare.com/search.php) (2017-10-03)
   * Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness<br>
       [**PortEx** - github](https://github.com/katjahahn/PortEx) (2018-02-14)
+  * PowerShell module for creating and managing Sysinternals Sysmon config files.<br>
+      [**Posh-Sysmon** - github](https://github.com/darkoperator/Posh-Sysmon) (2018-03-07)
   * PowerShell V3.0 or higher module for interacting with the VirtusTotal service to analize suspicious files and URLs using either the Public or Private Version 2 API provided by VirusTotal.<br>
       [**Posh-VirusTotal** - github](https://github.com/darkoperator/Posh-VirusTotal) (2017-12-06)
+  * The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.<br>
+      [**Ransomware decryption tools** - No more ransom!](https://www.nomoreransom.org/en/index.html) (2018-03-07)
   * RetDec is a retargetable machine-code decompiler based on LLVM<br>
       [**RetDec** - github](https://github.com/avast-tl/retdec) (2017-12-13)
+  * Sark (named after the notorious Tron villain) is an object-oriented scripting layer written on top of IDAPython.<br>
+      [**Sark** - Sark](https://sark.readthedocs.io/en/latest/) (2018-03-07)
   * FLARE IDA Pro Script Series: Simplifying Graphs in IDA<br>
       [**SimplifyGraph** - FireEye](https://www.fireeye.com/blog/threat-research/2018/01/simplifying-graphs-in-ida.html) (2018-02-14)
   * Android application hooking tool based on VirtualApp<br>
@@ -271,6 +304,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**findcrypt-yara** - github](https://github.com/polymorf/findcrypt-yara) (2017-12-06)
   * This is a malware manipulation environment for OpenAI’s gym<br>
       [**gym-malware** - github](https://github.com/endgameinc/gym-malware) (2018-01-31)
+  * IDA Plugin for quickly copying disassembly as encoded hex bytes<br>
+      [**herrcore/HexCopy.py** - github](https://gist.github.com/herrcore/01762779ae4ac130d3beb02bf8e99826) (2018-03-07)
   * 12,805 Free Yara rules created by http://icewater.io<br>
       [**icewater yara rules** - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
   * Kernel Driver Fuzzer<br>
@@ -314,4 +349,3 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Win32-OpenSSH** - github](https://github.com/PowerShell/Win32-OpenSSH) (2017-12-06)
   * Keybase launches encrypted git<br>
       [**encrypted git** - keybase.io](https://keybase.io/blog/encrypted-git-for-everyone) (2017-10-11)
-
