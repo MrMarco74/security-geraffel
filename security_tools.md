@@ -67,8 +67,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Lilith** - github](https://github.com/werkamsus/Lilith) (2017-11-08)
   * Longtime Sunshine is a proof of concept Nashorn based post exploitation framework. Nashorn is the JavaScript engine that Oracle introduced in Java 8.<br>
       [**Longtime Sunshine** - github](https://github.com/jacob-baines/longtime-sunshine) (2018-02-14)
+  * DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API<br>
+      [**Memcrashed-DDoS-Exploit** - github](https://github.com/649/Memcrashed-DDoS-Exploit) (2018-03-14)
   * Researchers ported the NSA  EternalSynergy, EternalRomance, and EternalChampion to Metasploit<br>
       [**NSA exploits in Metasploit** - security affairs](http://securityaffairs.co/wordpress/68768/hacking/eternalsynergy-eternalromance-eternalchampion-metasploit.html) (2018-02-14)
+  * This directory contains packet capture files of injections seen in the Bad Traffic Citizen Lab report.<br>
+      [**PCAP Bad Traffic Citizen Lab Report** - github](https://github.com/citizenlab/badtraffic/tree/master/pcaps) (2018-03-14)
   * FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software<br>
       [**PCILeech FPGA** - github](https://github.com/ufrisk/pcileech-fpga) (2018-02-14)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
@@ -101,6 +105,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-12-13)
   * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
+  * A bunch of links related to Linux kernel exploitation<br>
+      [**linux-kernel-exploitation** - github](https://github.com/xairy/linux-kernel-exploitation) (2018-03-14)
   * Quiet for Android - TCP over sound<br>
       [**org.quietmodem.Quiet** - github](https://github.com/quiet/org.quietmodem.Quiet) (2018-02-14)
   * Reaver – WPS Pin Hacking Tool<br>
@@ -160,6 +166,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
   * Command-line tool to scan Google search results for vulnerabilities<br>
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
+  * The Guppy Proxy (GUI Pappy)<br>
+      [**guppy-prox** - github](https://github.com/roglew/guppy-proxy) (2018-03-14)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
   * OWASP Joomla Vulnerability Scanner Project<br>
@@ -219,6 +227,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Whitequark** - github](https://gist.github.com/whitequark/cd89594b797217992d8263325cb77d75) (2018-01-31)
   * Find interesting Amazon S3 Buckets by watching certificate transparency logs<br>
       [**bucket-stream** - github](https://github.com/eth0izzle/bucket-stream) (2017-12-06)
+  * Abusing Certificate Transparency logs for getting HTTPS websites subdomains.<br>
+      [**ctfr** - github](https://github.com/UnaPibaGeek/ctfr) (2018-03-14)
   * dcrawl – Web Crawler For Unique Domains<br>
       [**dcrawl** - github](https://github.com/kgretzky/dcrawl) (2017-09-13)
   * DNSDB query scripts<br>
@@ -306,6 +316,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**gym-malware** - github](https://github.com/endgameinc/gym-malware) (2018-01-31)
   * IDA Plugin for quickly copying disassembly as encoded hex bytes<br>
       [**herrcore/HexCopy.py** - github](https://gist.github.com/herrcore/01762779ae4ac130d3beb02bf8e99826) (2018-03-07)
+  * A process scanner detecting and dumping hollowed PE modules.<br>
+      [**hollows_hunter** - github](https://github.com/hasherezade/hollows_hunter) (2018-03-14)
   * 12,805 Free Yara rules created by http://icewater.io<br>
       [**icewater yara rules** - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
   * Kernel Driver Fuzzer<br>
