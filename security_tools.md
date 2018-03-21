@@ -15,6 +15,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**WhoisXMLAPI** - WhoisXMLAPI](https://www.whoisxmlapi.com/) (2017-11-22)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
+  * πfs - the data-free filesystem<br>
+      [**pifs** - github](https://github.com/philipl/pifs) (2018-03-21)
 
 - - -
 
@@ -166,6 +168,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
   * Command-line tool to scan Google search results for vulnerabilities<br>
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
+  * Set of tests for fuzzing engines<br>
+      [**fuzzer-test-suite** - github](https://github.com/google/fuzzer-test-suite) (2018-03-21)
   * The Guppy Proxy (GUI Pappy)<br>
       [**guppy-prox** - github](https://github.com/roglew/guppy-proxy) (2018-03-14)
   * jSQL – Automatic SQL Injection Tool In Java<br>
@@ -336,6 +340,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ropper** - github](https://github.com/sashs/ropper) (2017-11-01)
   * A tool for passive data capture and reconnaissance of serial flash chips<br>
       [**sniffROM** - github](https://github.com/alainiamburg/sniffROM/blob/master/README.md#sniffrom) (2017-09-13)
+  * Android Frida library to hunt Android Malware<br>
+      [**uitkyk** - github](https://github.com/brompwnie/uitkyk) (2018-03-21)
 
 - - -
 
