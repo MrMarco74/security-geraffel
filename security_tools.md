@@ -27,6 +27,15 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 - - -
 
+**Defense**
+
+  * Block lists to prevent JavaScript miners<br>
+      [**adblock-nocoin-list** - github](https://github.com/hoshsadiq/adblock-nocoin-list) (2018-03-28)
+  * To block the malware domains of coin-hive systemwide.<br>
+      [**coinhive-block** - github](https://github.com/Marfjeh/coinhive-block) (2018-03-28)
+
+- - -
+
 **Forensic**
 
   * Bellingcat’s Digital Forensics Tools<br>
@@ -95,6 +104,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Windows Crypter** - github](https://github.com/malwares/Crypter) (2017-11-08)
   * Microsoft Windows - Escalate UAC Protection Bypass (Via COM Handler Hijack) (Metasploit)<br>
       [**Windows UAC Bypass** - Exploit-DB](https://www.exploit-db.com/exploits/42540/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-08-23)
+  * XFLTReaT tunnelling framework<br>
+      [**XFLTReaT** - github](https://github.com/earthquake/XFLTReaT) (2018-03-28)
   * GPU implementation of the Argon2 password hashing function<br>
       [**argon2-gpu** - github](https://gitlab.com/omos/argon2-gpu) (2017-12-06)
   * Just drop anything I have now about ASLR bypassing and fixing ;)<br>
@@ -239,6 +250,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dnsdb-query** - github](https://github.com/dnsdb/dnsdb-query) (2017-11-22)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-11-08)
+  * GetAltName (or GAN) is a tool that can extract Subject Alternative Names found in SSL Certificates directly from HTTPS web sites which can provide you with DNS names (subdomains) or virtual servers.<br>
+      [**getaltname** - github](https://github.com/franccesco/getaltname) (2018-03-28)
   * Searches full repo history for secrets and keys<br>
       [**gitleaks** - github](https://github.com/zricethezav/gitleaks) (2018-03-07)
   * Get control of your servers. Simple. Effective. Awesome!<br>
@@ -276,6 +289,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**IDA Pro 7.1** - Hex-Rays](https://www.hex-rays.com/products/ida/7.1/index.shtml) (2018-03-07)
   * A set of exploitation/reversing aids for IDA<br>
       [**IDA aids** - github](https://github.com/1111joe1111/ida_ea) (2017-10-18)
+  * [WIP] Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays<br>
+      [**IDAConnect** - github](https://github.com/IDAConnect/IDAConnect) (2018-03-28)
   * IDA Python Embedded Toolkit – IDAPython scripts for automating analysis of firmware of embedded devices<br>
       [**IDAPythonEmbeddedToolkit** - github](https://github.com/maddiestone/IDAPythonEmbeddedToolkit) (2018-02-21)
   * IDAtropy is a plugin for Hex-Ray's IDA Pro designed to generate charts of entropy and histograms using the power of idapython and matplotlib.<br>
@@ -310,6 +325,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**WinDbg Preview Version** - Microsoft Blog](https://blogs.msdn.microsoft.com/windbg/2017/08/28/new-windbg-available-in-preview/) (2017-08-30)
   * ActiveMime File Format Documentation<br>
       [**activemime-format** - github](https://github.com/idiom/activemime-format) (2018-02-14)
+  * run AFL with pintool<br>
+      [**afl-pin** - github](https://github.com/vanhauser-thc/afl-pin) (2018-03-28)
   * A Qt and C++ GUI for radare2 reverse engineering framework<br>
       [**cutter** - github](https://github.com/radareorg/cutter) (2017-12-06)
   * .NET debugger and assembly editor<br>
@@ -324,6 +341,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**hollows_hunter** - github](https://github.com/hasherezade/hollows_hunter) (2018-03-14)
   * 12,805 Free Yara rules created by http://icewater.io<br>
       [**icewater yara rules** - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
+  * IDA Pro resources, scripts, and configurations<br>
+      [**idawilli** - github](https://github.com/williballenthin/idawilli) (2018-03-28)
   * Kernel Driver Fuzzer<br>
       [**kDriver-Fuzzer** - github](https://github.com/k0keoyo/kDriver-Fuzzer) (2018-02-07)
   * Tool for dropping malware from EK<br>
@@ -332,6 +351,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
   * oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. <br>
       [**oletools** - github](https://github.com/decalage2/oletools) (2018-02-21)
+  * Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE.<br>
+      [**pe-sieve** - github](https://github.com/hasherezade/pe-sieve) (2018-03-28)
   * pestudio is used by many Computer Emergency Response Teams (CERT) worldwide in order to perform malware initial assessments<br>
       [**pestudio** - Winitor](https://winitor.com/binaries.html) (2017-11-01)
   * REmatch, a simple binary diffing utility that just works.<br>
@@ -340,6 +361,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ropper** - github](https://github.com/sashs/ropper) (2017-11-01)
   * A tool for passive data capture and reconnaissance of serial flash chips<br>
       [**sniffROM** - github](https://github.com/alainiamburg/sniffROM/blob/master/README.md#sniffrom) (2017-09-13)
+  * Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code"<br>
+      [**syntia** - github](https://github.com/RUB-SysSec/syntia) (2018-03-28)
   * Android Frida library to hunt Android Malware<br>
       [**uitkyk** - github](https://github.com/brompwnie/uitkyk) (2018-03-21)
 
