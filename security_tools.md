@@ -133,6 +133,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Pentest**
 
+  * BadMod detect website cms & website scanner =&> Auto exploiter<br>
+      [**BadMod** - github](https://github.com/MrSqar-Ye/BadMod) (2018-04-04)
   * Official Black Hat Arsenal Security Tools Repository<br>
       [**Black Hat Arsenal Tools** - github](https://github.com/toolswatch/blackhat-arsenal-tools) (2017-10-11)
   * The Unofficial Burp Extension for DNSDumpster.com<br>
@@ -145,6 +147,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
   * SIP-Based Audit and Attack Tool<br>
       [**Mr.SIP** - github](https://github.com/meliht/mr.sip) (2017-11-29)
+  * NetworkMiner 2.3 Released<br>
+      [**NetworkMiner** - NETRESEC](https://www.netresec.com/?page=Blog&month=2018-04&post=NetworkMiner-2-3-Released) (2018-04-04)
   * NoSQLMap – Automated NoSQL Exploitation Tool<br>
       [**NoSQLMap** - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/nosqlmap-automated-nosql-exploitation-tool/) (2017-08-23)
   * Introducing Nzyme: WiFi Monitoring, Intrusion Detection And Forensics<br>
@@ -181,6 +185,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
   * Set of tests for fuzzing engines<br>
       [**fuzzer-test-suite** - github](https://github.com/google/fuzzer-test-suite) (2018-03-21)
+  * Fuzzinator Random Testing Framework<br>
+      [**fuzzinator** - github](https://github.com/renatahodovan/fuzzinator) (2018-04-04)
   * The Guppy Proxy (GUI Pappy)<br>
       [**guppy-prox** - github](https://github.com/roglew/guppy-proxy) (2018-03-14)
   * jSQL – Automatic SQL Injection Tool In Java<br>
@@ -269,6 +275,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Adlice PEViewer** - Adlice](https://www.adlice.com/download/roguekillerpe/) (2017-10-03)
   * Analyzing JPEG files<br>
       [**Analyzing JPEG files** - SANS/Didier Stevens](https://isc.sans.edu/diary/rss/22806) (2017-09-13)
+  * Interactive online malware analysis service for dynamic and static research of most types of threats using any environments<br>
+      [**Any Run** - Any Run](https://any.run) (2018-04-04)
   * Archery is an opensource vulnerability assessment and management tool which helps developers and pentesters to perform scans and manage vulnerabilities<br>
       [**Archery** - Archery](http://archerysec.info/) (2018-02-14)
   * Binary Ninja Plugins<br>
@@ -301,6 +309,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Lighthouse** - github](https://github.com/gaasedelen/lighthouse) (2017-10-03)
   * Malware detection using learning and information retrieval for Android<br>
       [**MADLIRA** - github](https://github.com/dkhuuthe/MADLIRA) (2018-03-07)
+  * Decrypters for Some Versions of Magniber Ransomware Released<br>
+      [**Magniber Decrypters** - BleepingComputer](https://www.bleepingcomputer.com/news/security/decrypters-for-some-versions-of-magniber-ransomware-released/) (2018-04-04)
   * MalShare - Now with search<br>
       [**MalShare** - MalShare](https://malshare.com/search.php) (2017-10-03)
   * Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness<br>
