@@ -114,6 +114,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**cmsPoc** - github](https://github.com/CHYbeta/cmsPoc) (2017-12-06)
   * A Python Package for creating backdoors!<br>
       [**covertutils** - 0x00sec](https://0x00sec.org/t/a-python-package-for-creating-backdoors/3170) (2017-08-09)
+  * CVE-2018-0886 PoC<br>
+      [**credssp** - github](https://github.com/preempt/credssp) (2018-04-25)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-12-13)
   * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
@@ -137,6 +139,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**BadMod** - github](https://github.com/MrSqar-Ye/BadMod) (2018-04-04)
   * Official Black Hat Arsenal Security Tools Repository<br>
       [**Black Hat Arsenal Tools** - github](https://github.com/toolswatch/blackhat-arsenal-tools) (2017-10-11)
+  * Home of Brida - Advanced mobile penetration testing with Brida – Slides, Talk, HowTo, everything<br>
+      [**Brida** - MediaService](https://techblog.mediaservice.net/) (2018-04-25)
   * The Unofficial Burp Extension for DNSDumpster.com<br>
       [**Bumpster** - github](https://github.com/markclayton/bumpster) (2018-02-21)
   * Burpa: A Burp Suite Automation Tool<br>
@@ -169,6 +173,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**WAFNinja** - github](https://github.com/khalilbijjou/WAFNinja) (2017-11-08)
   * WPSeku - Wordpress Security Scanner<br>
       [**WPSeku** - github](https://github.com/m4ll0k/WPSeku) (2017-11-08)
+  * Web Service Security Assessment Tool: WSSAT<br>
+      [**WSSAT** - n0where](https://n0where.net/web-service-security-assessment-tool-wssat) (2018-04-25)
   * The Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.<br>
       [**Yuki Chan** - github](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) (2017-10-03)
   * The OWASP ZAP Attack Proxy core project<br>
@@ -195,14 +201,22 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**joomscan** - github](https://github.com/rezasp/joomscan) (2018-03-07)
   * jSQL Injection is a Java application for automatic SQL database injection.<br>
       [**jsq-injection** - github](https://github.com/ron190/jsql-injection) (2017-10-11)
+  * A little toolbox to play with Microsoft Kerberos in C<br>
+      [**kekeo** - github](https://github.com/gentilkiwi/kekeo) (2018-04-25)
   * DNS Masquerading Server for Windows<br>
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-23)
   * Update for Mod0Umleitung available<br>
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-30)
+  * An open source toolchain for the Hexagon DSP based off LLVM and MCLinker<br>
+      [**openhexagon** - github](https://github.com/geohot/openhexagon) (2018-04-25)
+  * A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications<br>
+      [**pyt** - github](https://github.com/python-security/pyt) (2018-04-25)
   * Remote Desktop Protocol in Twisted Python<br>
       [**rdpy** - github](https://github.com/citronneur/rdpy) (2017-11-22)
   * Simple program that allows you to run commands as another user without being prompted for their password.<br>
       [**runsharp** - github](https://github.com/fullmetalcache/runsharp) (2018-02-07)
+  * testssl.sh has been updated<br>
+      [**testssl.sh 2.9.5-5** - packet storm](https://packetstormsecurity.com/files/147213) (2018-04-25)
   * display unicode character properties<br>
       [**unicode** - github](https://github.com/garabik/unicode) (2018-02-07)
   * Nikto for Windows with some extra features.<br>
@@ -226,6 +240,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**CISCO CSIRT** - github](https://github.com/ciscocsirt/gosint) (2017-08-09)
   * CapLoader is designed to simplify complex tasks, such as digging through gigabytes of PCAP data looking for traffic that sticks out or shouldn’t be there<br>
       [**CapLoader** - NetReSec](https://www.netresec.com/?page=Blog&month=2017-10&post=CapLoader-1-6-Released) (2017-10-11)
+  * Multithreaded drupalgeddon2 scanner<br>
+      [**Drupalgeddon2_scanner** - github](https://github.com/0x4148/Drupalgeddon2_scanner) (2018-04-25)
   * Exitmap - A Fast and Modular Scanner for TOR Exit Relays<br>
       [**Exitmap** - KitPloit](http://www.kitploit.com/2017/10/exitmap-fast-and-modular-scanner-for.html) (2017-11-01)
   * Tool for advanced mining for content on Github<br>
@@ -258,6 +274,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-11-08)
   * GetAltName (or GAN) is a tool that can extract Subject Alternative Names found in SSL Certificates directly from HTTPS web sites which can provide you with DNS names (subdomains) or virtual servers.<br>
       [**getaltname** - github](https://github.com/franccesco/getaltname) (2018-03-28)
+  * Commandline tool for searching github<br>
+      [**githubtool** - github](https://github.com/nlitsme/githubtool) (2018-04-25)
   * Searches full repo history for secrets and keys<br>
       [**gitleaks** - github](https://github.com/zricethezav/gitleaks) (2018-03-07)
   * Get control of your servers. Simple. Effective. Awesome!<br>
@@ -339,8 +357,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**afl-pin** - github](https://github.com/vanhauser-thc/afl-pin) (2018-03-28)
   * A Qt and C++ GUI for radare2 reverse engineering framework<br>
       [**cutter** - github](https://github.com/radareorg/cutter) (2017-12-06)
+  * This module analyzes malware droppers in Office documents, VB scripts or Javascript files.<br>
+      [**cutthecrap** - github](https://github.com/certsocietegenerale/fame_modules/tree/master/processing/cutthecrap) (2018-04-25)
   * .NET debugger and assembly editor<br>
       [**dnSpy** - github](https://github.com/0xd4d/dnSpy) (2017-10-11)
+  * An IDA Pro script for creating a clearer idb for nymaim malware<br>
+      [**easy_way_nymaim** - github](https://github.com/d00rt/easy_way_nymaim/) (2018-04-25)
   * IDA pro plugin to find crypto constants (and more)<br>
       [**findcrypt-yara** - github](https://github.com/polymorf/findcrypt-yara) (2017-12-06)
   * This is a malware manipulation environment for OpenAI’s gym<br>
@@ -365,6 +387,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**pe-sieve** - github](https://github.com/hasherezade/pe-sieve) (2018-03-28)
   * pestudio is used by many Computer Emergency Response Teams (CERT) worldwide in order to perform malware initial assessments<br>
       [**pestudio** - Winitor](https://winitor.com/binaries.html) (2017-11-01)
+  * This tool aim to provide a collaborative malware analysis framework<br>
+      [**polichombr** - github](https://github.com/ANSSI-FR/polichombr) (2018-04-25)
+  * Pure Python parser and analyzer for IDA Pro database files (.idb)<br>
+      [**python-idb** - github](https://github.com/williballenthin/python-idb) (2018-04-25)
   * REmatch, a simple binary diffing utility that just works.<br>
       [**rematch** - github](https://github.com/nirizr/rematch) (2017-12-13)
   * You can use ropper to display information about files in different file formats and you can find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC)<br>
