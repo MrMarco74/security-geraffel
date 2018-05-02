@@ -7,6 +7,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Coding**
 
+  * Moving Fast and Securing Things<br>
+      [**The SDL at Slack and goSDL** - slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a) (2018-05-02)
   * VisualStudio Code for Linux<br>
       [**VisualStudio Code for Linux** - Microsoft](https://code.visualstudio.com/) (2018-03-07)
   * A project for allowing EDK-II Development with Visual Studio<br>
@@ -68,6 +70,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**GoCrack** - github](https://github.com/fireeye/gocrack) (2017-11-01)
   * Encrypted exploit delivery for the masses<br>
       [**Ironsquirrel** - github](https://github.com/MRGEffitas/Ironsquirrel) (2017-11-08)
+  * Kali Linux 2018.2 Release<br>
+      [**Kali Linux** - Kali.org](https://www.kali.org/news/kali-linux-2018-2-release/) (2018-05-02)
   * Kali Linux for WSL now available in the Windows Store<br>
       [**Kali Linux for WSL** - Microsoft](https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/) (2018-03-07)
   * Krack AP module for Scapy<br>
@@ -86,6 +90,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PCAP Bad Traffic Citizen Lab Report** - github](https://github.com/citizenlab/badtraffic/tree/master/pcaps) (2018-03-14)
   * FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software<br>
       [**PCILeech FPGA** - github](https://github.com/ufrisk/pcileech-fpga) (2018-02-14)
+  * PoC||GTFO<br>
+      [**PoC||GTFO** - github](https://github.com/corkami/docs/blob/master/pocorgtfo.md) (2018-05-02)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
       [**Posh-SSH** - KITPLOIT](http://www.kitploit.com/2017/08/posh-ssh-powershell-module-for.html) (2017-08-30)
   * Automated Generation of Proofs of Vulnerability with S2E<br>
@@ -100,6 +106,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**UACMe** - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/uacme-defeat-windows-user-account-control-uac/) (2017-08-23)
   * WiNX Portable: Runs for hours on a battery! #WiFi 0wnage on the move!<br>
       [**WiNX Portable** - Hacker Arsenal](https://www.hackerarsenal.com/collections/frontpage/products/winx-portable) (2017-08-23)
+  * Elevate, UAC bypass, persistence, privilege escalation, dll hijack techniques<br>
+      [**WinPwnage** - github](https://github.com/rootm0s/WinPwnage) (2018-05-02)
   * Nice collection of malware crypters<br>
       [**Windows Crypter** - github](https://github.com/malwares/Crypter) (2017-11-08)
   * Microsoft Windows - Escalate UAC Protection Bypass (Via COM Handler Hijack) (Metasploit)<br>
@@ -161,6 +169,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PRET** - github](https://github.com/RUB-NDS/PRET) (2018-01-31)
   * PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction<br>
       [**PcapXray** - github](https://github.com/Srinivas11789/PcapXray) (2018-02-21)
+  * A collection of open source and commercial tools that aid in red team operations<br>
+      [**Red-Teaming-Toolkit** - github](https://github.com/infosecn1nja/Red-Teaming-Toolkit) (2018-05-02)
   * SAML Raider – SAML2 Security Testing Burp Extension<br>
       [**SAML Raider** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/saml-raider-saml2-security-testing-burp-extension/) (2017-08-16)
   * (SQLiv) massive SQL injection vulnerability scanner<br>
@@ -389,6 +399,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**pestudio** - Winitor](https://winitor.com/binaries.html) (2017-11-01)
   * This tool aim to provide a collaborative malware analysis framework<br>
       [**polichombr** - github](https://github.com/ANSSI-FR/polichombr) (2018-04-25)
+  * C++ python bytecode disassembler and decompiler<br>
+      [**pycdc** - github](https://github.com/zrax/pycdc) (2018-05-02)
   * Pure Python parser and analyzer for IDA Pro database files (.idb)<br>
       [**python-idb** - github](https://github.com/williballenthin/python-idb) (2018-04-25)
   * REmatch, a simple binary diffing utility that just works.<br>
