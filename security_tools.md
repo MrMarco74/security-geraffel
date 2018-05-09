@@ -100,6 +100,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**SET** - github](https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/payloads/powershell/powershell_shellcode.code) (2017-08-09)
   * Seamlessly spy on SSH session like it is your tty<br>
       [**SSH Pry Spy** - github](https://github.com/nopernik/sshpry) (2017-09-27)
+  * Pop shells like a master<br>
+      [**ShellPop** - github](https://github.com/0x00-0x00/ShellPop) (2018-05-09)
   * Snifflab: An environment for testing mobile devices<br>
       [**Snifflab** - Open Effect](https://openeffect.ca/snifflab-an-environment-for-testing-mobile-devices/) (2017-11-22)
   * UACMe – Defeat Windows User Account Control (UAC)<br>
@@ -126,6 +128,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**credssp** - github](https://github.com/preempt/credssp) (2018-04-25)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-12-13)
+  * Drupal enumeration & exploitation tool<br>
+      [**drupwn** - github](https://github.com/immunIT/drupwn) (2018-05-09)
   * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
   * A bunch of links related to Linux kernel exploitation<br>
@@ -185,6 +189,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**WPSeku** - github](https://github.com/m4ll0k/WPSeku) (2017-11-08)
   * Web Service Security Assessment Tool: WSSAT<br>
       [**WSSAT** - n0where](https://n0where.net/web-service-security-assessment-tool-wssat) (2018-04-25)
+  * Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods<br>
+      [**XXEinjector** - github](https://github.com/enjoiz/XXEinjector) (2018-05-09)
   * The Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.<br>
       [**Yuki Chan** - github](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest) (2017-10-03)
   * The OWASP ZAP Attack Proxy core project<br>
@@ -272,6 +278,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**VHostScan** - github](https://github.com/codingo/VHostScan) (2017-10-11)
   * Scripts for fetching the strava database<br>
       [**Whitequark** - github](https://gist.github.com/whitequark/cd89594b797217992d8263325cb77d75) (2018-01-31)
+  * Wireshark GeoIP resolution setup V2.0 and CMD Line Tool mmdbresolve<br>
+      [**Wireshark 2.6** - Packet-Foo.com](https://blog.packet-foo.com/2018/05/wireshark-geoip-resolution-setup-v2-0/) (2018-05-09)
   * Find interesting Amazon S3 Buckets by watching certificate transparency logs<br>
       [**bucket-stream** - github](https://github.com/eth0izzle/bucket-stream) (2017-12-06)
   * Abusing Certificate Transparency logs for getting HTTPS websites subdomains.<br>
