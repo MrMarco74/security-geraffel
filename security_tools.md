@@ -45,6 +45,13 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 - - -
 
+**Forensics**
+
+  * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
+      [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
+
+- - -
+
 **Fun**
 
   * Fuck Off As A Service<br>
@@ -142,6 +149,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**robot-detect** - github](https://github.com/robotattackorg/robot-detect) (2018-02-07)
   * Interactive shellcoding environment to easily craft shellcodes<br>
       [**shellen** - github](https://github.com/merrychap/shellen) (2018-03-07)
+  * Cross Architecture Shellcode in C<br>
+      [**xarch_shellcode** - github](https://github.com/ixty/xarch_shellcode) (2018-05-16)
 
 - - -
 
@@ -197,6 +206,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ZAP Attack Proxy** - github](https://github.com/zaproxy/zaproxy) (2017-10-18)
   * Auto Scanning to SSL Vulnerability<br>
       [**a2sv** - github](https://github.com/hahwul/a2sv) (2017-10-11)
+  * A POSIX-compliant, fully automated WPA PSK handshake capture script aimed at penetration testing<br>
+      [**airbash** - github](https://github.com/tehw0lf/airbash) (2018-05-16)
   * Generates permutations, alterations and mutations of subdomains and then resolves them<br>
       [**altdns** - github](https://github.com/infosec-au/altdns) (2018-02-07)
   * BlueCoat Filesystem Manager<br>
@@ -307,6 +318,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Reversing**
 
+  * Tool written in python3 to determine where the AV signature is located in a binary/payload<br>
+      [**AVSignSeek** - github](https://github.com/hegusung/AVSignSeek) (2018-05-16)
   * Adlice PEViewer - The best PE analysis toolkit<br>
       [**Adlice PEViewer** - Adlice](https://www.adlice.com/download/roguekillerpe/) (2017-10-03)
   * Analyzing JPEG files<br>
@@ -319,6 +332,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Binary Ninja Plugins** - github](https://github.com/Vector35/community-plugins/tree/master/plugins) (2017-11-22)
   * Bytecode Viewer - A Java 8 Jar & Android Apk Reverse Engineering Suite (Decompiler, Editor, Debugger & More)<br>
       [**Bytecode Viewer** - KITPLOIT](http://www.kitploit.com/2017/08/bytecode-viewer-java-8-jar-android-apk.html) (2017-08-23)
+  * DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense<br>
+      [**DARKSURGEON** - github](https://github.com/cryps1s/DARKSURGEON) (2018-05-16)
   * DebugView++, collect, view and filter your application logs<br>
       [**DebugViewPP** - github](https://github.com/CobaltFusion/DebugViewPP) (2018-01-31)
   * Home of the dionaea honeypot<br>
