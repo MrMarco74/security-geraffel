@@ -42,11 +42,6 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * Bellingcat’s Digital Forensics Tools<br>
       [**Bellingcat’s Digital Forensics Tools** - Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) (2018-03-07)
-
-- - -
-
-**Forensics**
-
   * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
       [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
 
@@ -65,6 +60,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**APTSimulator** - github](https://github.com/Neo23x0/APTSimulator) (2018-02-07)
   * Blind SQL injection exploitation tool written in ruby.<br>
       [**BSQLinjector** - github](https://github.com/enjoiz/BSQLinjector) (2017-09-27)
+  * Linux Binary Exploitation<br>
+      [**BinExp** - github](https://github.com/r0hi7/BinExp) (2018-05-23)
   * Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability<br>
       [**CVE-2018-6871** - github](https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure) (2018-02-14)
   * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
@@ -89,6 +86,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Lilith** - github](https://github.com/werkamsus/Lilith) (2017-11-08)
   * Longtime Sunshine is a proof of concept Nashorn based post exploitation framework. Nashorn is the JavaScript engine that Oracle introduced in Java 8.<br>
       [**Longtime Sunshine** - github](https://github.com/jacob-baines/longtime-sunshine) (2018-02-14)
+  * Whitelisting Bypassing Using ( Windows installer Package MSI ) Remote display Mimikatz @gentilkiwi &- Powershell /c install-Package C:\test.msi &- msiexec /passive /i URLMSI<br>
+      [**MSIScript** - github](https://github.com/homjxi0e/MSIScript) (2018-05-23)
   * DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API<br>
       [**Memcrashed-DDoS-Exploit** - github](https://github.com/649/Memcrashed-DDoS-Exploit) (2018-03-14)
   * Researchers ported the NSA  EternalSynergy, EternalRomance, and EternalChampion to Metasploit<br>
@@ -101,6 +100,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PoC||GTFO** - github](https://github.com/corkami/docs/blob/master/pocorgtfo.md) (2018-05-02)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
       [**Posh-SSH** - KITPLOIT](http://www.kitploit.com/2017/08/posh-ssh-powershell-module-for.html) (2017-08-30)
+  * Post-exploitation tool for hiding processes from monitoring applications<br>
+      [**ProcessHider** - github](https://github.com/M00nRise/ProcessHider) (2018-05-23)
   * Automated Generation of Proofs of Vulnerability with S2E<br>
       [**S2E Docs** - github](https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst) (2018-02-21)
   * The Social-Engineer Toolkit (SET) repository from TrustedSec<br>
@@ -230,6 +231,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**jsq-injection** - github](https://github.com/ron190/jsql-injection) (2017-10-11)
   * A little toolbox to play with Microsoft Kerberos in C<br>
       [**kekeo** - github](https://github.com/gentilkiwi/kekeo) (2018-04-25)
+  * The best tool to find and prove XSS flaws<br>
+      [**knoxss** - knoxss](https://knoxss.me/) (2018-05-23)
   * DNS Masquerading Server for Windows<br>
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-23)
   * Update for Mod0Umleitung available<br>
@@ -242,6 +245,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**rdpy** - github](https://github.com/citronneur/rdpy) (2017-11-22)
   * Simple program that allows you to run commands as another user without being prompted for their password.<br>
       [**runsharp** - github](https://github.com/fullmetalcache/runsharp) (2018-02-07)
+  * A collective list of public JSON APIs for use in security<br>
+      [**security-api** - github](https://github.com/deralexxx/security-apis) (2018-05-23)
   * testssl.sh has been updated<br>
       [**testssl.sh 2.9.5-5** - packet storm](https://packetstormsecurity.com/files/147213) (2018-04-25)
   * display unicode character properties<br>
@@ -313,6 +318,13 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**wordsmith** - github](https://github.com/skahwah/wordsmith) (2017-10-11)
   * Yalda, Automated Bulk Intelligence<br>
       [**yalda** - github](https://github.com/fideliscyber/yalda) (2017-11-22)
+
+- - -
+
+**Regulatory**
+
+  * DSGVO Generator<br>
+      [**DSGVO Generator** - DSGVO Generator](https://datenschutz-generator.de/) (2018-05-23)
 
 - - -
 
@@ -414,6 +426,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mal_getter** - github](https://github.com/nao-sec/mal_getter) (2018-02-07)
   * PowerShell oneliner to retrieve wdigest passwords from the memory<br>
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
+  * YARA malware query accelerator (web frontend)<br>
+      [**mquery** - github](https://github.com/CERT-Polska/mquery) (2018-05-23)
   * oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. <br>
       [**oletools** - github](https://github.com/decalage2/oletools) (2018-02-21)
   * Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE.<br>
