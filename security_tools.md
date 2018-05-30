@@ -44,6 +44,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Bellingcat’s Digital Forensics Tools** - Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) (2018-03-07)
   * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
       [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
+  * Collect NTFS forensic information with osquery<br>
+      [**osquery** - Trail of Bits Blog](https://blog.trailofbits.com/2018/05/28/collect-ntfs-forensic-information-with-osquery/) (2018-05-30)
 
 - - -
 
@@ -142,6 +144,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
   * A bunch of links related to Linux kernel exploitation<br>
       [**linux-kernel-exploitation** - github](https://github.com/xairy/linux-kernel-exploitation) (2018-03-14)
+  * Nano is a family of PHP web shells which are code golfed for stealth<br>
+      [**nano** - github](https://github.com/UltimateHackers/nano/) (2018-05-30)
   * Quiet for Android - TCP over sound<br>
       [**org.quietmodem.Quiet** - github](https://github.com/quiet/org.quietmodem.Quiet) (2018-02-14)
   * Reaver – WPS Pin Hacking Tool<br>
@@ -169,6 +173,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
       [**FruityWifi** - github](https://github.com/xtr4nge/FruityWifi) (2017-12-06)
+  * A collection of Burpsuite Intruder payloads, fuzz lists and file uploads<br>
+      [**IntruderPayloads** - github](https://github.com/1N3/IntruderPayloads) (2018-05-30)
   * Kali Linux 2017.2 Release<br>
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
   * SIP-Based Audit and Attack Tool<br>
@@ -223,6 +229,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**fuzzinator** - github](https://github.com/renatahodovan/fuzzinator) (2018-04-04)
   * The Guppy Proxy (GUI Pappy)<br>
       [**guppy-prox** - github](https://github.com/roglew/guppy-proxy) (2018-03-14)
+  * GyoiThon - A Growing Penetration Test Tool Using Machine Learning<br>
+      [**gyoithon** - kitploit](https://www.kitploit.com/2018/05/gyoithon-growing-penetration-test-tool.html) (2018-05-30)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
   * OWASP Joomla Vulnerability Scanner Project<br>
@@ -253,6 +261,13 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**unicode** - github](https://github.com/garabik/unicode) (2018-02-07)
   * Nikto for Windows with some extra features.<br>
       [**wikto** - github](https://github.com/sensepost/wikto/) (2017-09-05)
+
+- - -
+
+**Privacy**
+
+  * Privates, verschlüsseltes Austauschen von Dateien<br>
+      [**Send Firefox Test Pilot** - firefox.com](https://send.firefox.com/) (2018-05-30)
 
 - - -
 
@@ -386,6 +401,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Ransomware decryption tools** - No more ransom!](https://www.nomoreransom.org/en/index.html) (2018-03-07)
   * RetDec is a retargetable machine-code decompiler based on LLVM<br>
       [**RetDec** - github](https://github.com/avast-tl/retdec) (2017-12-13)
+  * Robber is open source tool for finding executables prone to DLL hijacking<br>
+      [**Robber** - github](https://mojtabatajik.github.io/Robber/) (2018-05-30)
   * Sark (named after the notorious Tron villain) is an object-oriented scripting layer written on top of IDAPython.<br>
       [**Sark** - Sark](https://sark.readthedocs.io/en/latest/) (2018-03-07)
   * FLARE IDA Pro Script Series: Simplifying Graphs in IDA<br>
