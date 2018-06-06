@@ -42,6 +42,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * Bellingcat’s Digital Forensics Tools<br>
       [**Bellingcat’s Digital Forensics Tools** - Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) (2018-03-07)
+  * Interesting Files Scanner extends Burp Suite’s active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case. Furthermore, a Burp Suite tab is present to select/unselect the checks, to avoid network overload.<br>
+      [**InterestingFileScanner** - github](https://github.com/modzero/interestingFileScanner) (2018-06-06)
   * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
       [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
   * Collect NTFS forensic information with osquery<br>
@@ -74,6 +76,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Findsploit** - github](https://github.com/1N3/Findsploit) (2018-03-07)
   * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
       [**GoCrack** - github](https://github.com/fireeye/gocrack) (2017-11-01)
+  * Hash Buster is a program which uses several APIs to perform hash lookups<br>
+      [**Hash-Buster** - github](https://github.com/UltimateHackers/Hash-Buster) (2018-06-06)
   * Encrypted exploit delivery for the masses<br>
       [**Ironsquirrel** - github](https://github.com/MRGEffitas/Ironsquirrel) (2017-11-08)
   * Kali Linux 2018.2 Release<br>
