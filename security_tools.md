@@ -19,6 +19,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
   * πfs - the data-free filesystem<br>
       [**pifs** - github](https://github.com/philipl/pifs) (2018-03-21)
+  * A high-level framework for developing efficient zk-SNARK circuits<br>
+      [**xjsnark** - github](https://github.com/akosba/xjsnark) (2018-06-13)
 
 - - -
 
@@ -42,10 +44,16 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * Bellingcat’s Digital Forensics Tools<br>
       [**Bellingcat’s Digital Forensics Tools** - Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) (2018-03-07)
+  * To parse ugly Microsoft DNS Logs<br>
+      [**DNSplice** - github](https://github.com/nerdiosity/DNSplice) (2018-06-13)
   * Interesting Files Scanner extends Burp Suite’s active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case. Furthermore, a Burp Suite tab is present to select/unselect the checks, to avoid network overload.<br>
       [**InterestingFileScanner** - github](https://github.com/modzero/interestingFileScanner) (2018-06-06)
   * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
       [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
+  * A curated list of awesome YARA rules, tools, and people<br>
+      [**awesome-yara** - github](https://github.com/InQuest/awesome-yara) (2018-06-13)
+  * A tool/lib to encrypt/decrypt Microsoft Office Document<br>
+      [**msoffice** - github](https://github.com/herumi/msoffice) (2018-06-13)
   * Collect NTFS forensic information with osquery<br>
       [**osquery** - Trail of Bits Blog](https://blog.trailofbits.com/2018/05/28/collect-ntfs-forensic-information-with-osquery/) (2018-05-30)
 
@@ -55,6 +63,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * Fuck Off As A Service<br>
       [**FOAAS** - foaas.com](https://www.foaas.com/) (2017-11-22)
+  * A personal information dashboard for your terminal<br>
+      [**wtf** - github](https://github.com/senorprogrammer/wtf) (2018-06-13)
 
 - - -
 
@@ -66,12 +76,16 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**BSQLinjector** - github](https://github.com/enjoiz/BSQLinjector) (2017-09-27)
   * Linux Binary Exploitation<br>
       [**BinExp** - github](https://github.com/r0hi7/BinExp) (2018-05-23)
+  * PoCs of Vulnerabilities on Bluedroid<br>
+      [**Bluedroid** - github](https://github.com/JiounDai/Bluedroid) (2018-06-13)
   * Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability<br>
       [**CVE-2018-6871** - github](https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure) (2018-02-14)
   * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
       [**DKMC** - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
   * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
       [**Docker Daemon** - Exploit-DB](https://www.exploit-db.com/exploits/42650/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-09-13)
+  * A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX<br>
+      [**EvilOSX** - github](https://github.com/Marten4n6/EvilOSX) (2018-06-13)
   * Find exploits in local and online databases instantly<br>
       [**Findsploit** - github](https://github.com/1N3/Findsploit) (2018-03-07)
   * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
@@ -148,8 +162,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
   * A bunch of links related to Linux kernel exploitation<br>
       [**linux-kernel-exploitation** - github](https://github.com/xairy/linux-kernel-exploitation) (2018-03-14)
+  * Kerberos manipulation library in pure Python<br>
+      [**minikerberos** - github](https://github.com/skelsec/minikerberos) (2018-06-13)
   * Nano is a family of PHP web shells which are code golfed for stealth<br>
       [**nano** - github](https://github.com/UltimateHackers/nano/) (2018-05-30)
+  * This tool modifies NTLMv1/NTLMv1-ESS/MSCHAPv2 hashes so they can be cracked with DES Mode 14000 in hashcat<br>
+      [**ntlmv1-multi** - github](https://github.com/evilmog/ntlmv1-multi/) (2018-06-13)
   * Quiet for Android - TCP over sound<br>
       [**org.quietmodem.Quiet** - github](https://github.com/quiet/org.quietmodem.Quiet) (2018-02-14)
   * Reaver – WPS Pin Hacking Tool<br>
@@ -223,6 +241,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**altdns** - github](https://github.com/infosec-au/altdns) (2018-02-07)
   * BlueCoat Filesystem Manager<br>
       [**bcfs-manager** - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
+  * Platform Security Assessment Framework<br>
+      [**chipsec** - github](https://github.com/chipsec/chipsec) (2018-06-13)
   * Stealing CSRF tokens with CSS injection (without iFrames)<br>
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
   * Command-line tool to scan Google search results for vulnerabilities<br>
@@ -259,6 +279,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**runsharp** - github](https://github.com/fullmetalcache/runsharp) (2018-02-07)
   * A collective list of public JSON APIs for use in security<br>
       [**security-api** - github](https://github.com/deralexxx/security-apis) (2018-05-23)
+  * Network share sniffer and auto-mounter for crawling remote file systems<br>
+      [**sharesniffer** - github](https://github.com/shirosaidev/sharesniffer) (2018-06-13)
   * testssl.sh has been updated<br>
       [**testssl.sh 2.9.5-5** - packet storm](https://packetstormsecurity.com/files/147213) (2018-04-25)
   * display unicode character properties<br>
@@ -303,6 +325,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Iris** - Domaintools](https://www.domaintools.com/products/iris/) (2017-11-22)
   * Investigate malicious Windows logon by visualizing and analyzing Windows event log<br>
       [**LogonTracer** - github](https://github.com/JPCERTCC/LogonTracer) (2017-12-06)
+  * Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks<br>
+      [**Namechk** - github](https://github.com/HA71/Namechk) (2018-06-13)
   * AlienVault OSSIM: The World’s Most Widely Used Open Source SIEM<br>
       [**OSSIM** - Alien Vault](https://www.alienvault.com/products/ossim) (2017-10-25)
   * Fast subdomains enumeration tool for penetration testers<br>
@@ -331,6 +355,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**githubtool** - github](https://github.com/nlitsme/githubtool) (2018-04-25)
   * Searches full repo history for secrets and keys<br>
       [**gitleaks** - github](https://github.com/zricethezav/gitleaks) (2018-03-07)
+  * Gitrob is a command line tool which can help organizations and security professionals find sensitive information lingering in publicly available files on GitHub<br>
+      [**gitrob** - Michael Henriksen](http://michenriksen.com/blog/gitrob-now-in-go/) (2018-06-13)
   * Get control of your servers. Simple. Effective. Awesome!<br>
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
   * The aim of Wordsmith is to assist with creating tailored wordlists. This is mostly based on geolocation.<br>
@@ -421,6 +447,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**activemime-format** - github](https://github.com/idiom/activemime-format) (2018-02-14)
   * run AFL with pintool<br>
       [**afl-pin** - github](https://github.com/vanhauser-thc/afl-pin) (2018-03-28)
+  * Suite of plugins that provide the ability to transfer analysis data between Binary Ninja and IDA<br>
+      [**bnida** - github](https://github.com/zznop/bnida) (2018-06-13)
   * A Qt and C++ GUI for radare2 reverse engineering framework<br>
       [**cutter** - github](https://github.com/radareorg/cutter) (2017-12-06)
   * This module analyzes malware droppers in Office documents, VB scripts or Javascript files.<br>
