@@ -7,6 +7,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Coding**
 
+  * DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks<br>
+      [**DOMPurify** - github](https://github.com/cure53/DOMPurify/releases/tag/1.0.6) (2018-07-25)
   * Moving Fast and Securing Things<br>
       [**The SDL at Slack and goSDL** - slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a) (2018-05-02)
   * VisualStudio Code for Linux<br>
@@ -80,6 +82,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Bluedroid** - github](https://github.com/JiounDai/Bluedroid) (2018-06-13)
   * Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability<br>
       [**CVE-2018-6871** - github](https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure) (2018-02-14)
+  * Vulnerability PoCs of Android Bluetooth<br>
+      [**CVE-2018-9365** - github](https://github.com/JiounDai/Bluedroid/blob/master/poc_CVE-2018-9365.c) (2018-07-25)
   * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
       [**DKMC** - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
   * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
@@ -223,6 +227,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**VulnScan** - Microsoft TechNet](https://blogs.technet.microsoft.com/srd/2017/10/03/vulnscan-automated-triage-and-root-cause-analysis-of-memory-corruption-issues/) (2017-10-25)
   * WAFNinja is a tool which contains two functions to attack Web Application Firewalls.<br>
       [**WAFNinja** - github](https://github.com/khalilbijjou/WAFNinja) (2017-11-08)
+  * Powershell-based Windows Security Auditing Toolbox<br>
+      [**WINspect** - github](https://github.com/A-mIn3/WINspect) (2018-07-25)
   * WPSeku - Wordpress Security Scanner<br>
       [**WPSeku** - github](https://github.com/m4ll0k/WPSeku) (2017-11-08)
   * Web Service Security Assessment Tool: WSSAT<br>
@@ -247,6 +253,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
   * Command-line tool to scan Google search results for vulnerabilities<br>
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
+  * FuzzCheck is a coverage-guided fuzzing engine for Swift packages that works with typed values instead of raw binary buffers<br>
+      [**fuzzcheck** - github](https://github.com/loiclec/fuzzcheck) (2018-07-25)
   * Set of tests for fuzzing engines<br>
       [**fuzzer-test-suite** - github](https://github.com/google/fuzzer-test-suite) (2018-03-21)
   * Fuzzinator Random Testing Framework<br>
@@ -329,6 +337,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Namechk** - github](https://github.com/HA71/Namechk) (2018-06-13)
   * AlienVault OSSIM: The World’s Most Widely Used Open Source SIEM<br>
       [**OSSIM** - Alien Vault](https://www.alienvault.com/products/ossim) (2017-10-25)
+  * Crawler which extracts URLs, files, intel & endpoints from a target and is ridiculously fast<br>
+      [**Photon** - github](https://github.com/s0md3v/Photon) (2018-07-25)
+  * Scan for open S3 buckets and dump<br>
+      [**S3Scanner** - github](https://github.com/sa7mon/S3Scanner) (2018-07-25)
   * Fast subdomains enumeration tool for penetration testers<br>
       [**Sublist3r** - github](https://github.com/aboul3la/Sublist3r) (2017-11-22)
   * Scalable, Open Source and Free Security Incident Response Solutions<br>
@@ -421,6 +433,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Magniber Decrypters** - BleepingComputer](https://www.bleepingcomputer.com/news/security/decrypters-for-some-versions-of-magniber-ransomware-released/) (2018-04-04)
   * MalShare - Now with search<br>
       [**MalShare** - MalShare](https://malshare.com/search.php) (2017-10-03)
+  * Set up your own malware analysis lab with VirtualBox, INetSim and Burp<br>
+      [**Malware Analysis Lab** - Christophe Tafani-Dereeper](https://blog.christophetd.fr/malware-analysis-lab-with-virtualbox-inetsim-and-burp/) (2018-07-25)
+  * OALabs Malware Analysis Virtual Machine<br>
+      [**Malware Analysis VM** - OALabs](https://oalabs.openanalysis.net/2018/07/16/oalabs_malware_analysis_virtual_machine/) (2018-07-25)
   * Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness<br>
       [**PortEx** - github](https://github.com/katjahahn/PortEx) (2018-02-14)
   * PowerShell module for creating and managing Sysinternals Sysmon config files.<br>
@@ -469,6 +485,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**icewater yara rules** - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
   * IDA Pro resources, scripts, and configurations<br>
       [**idawilli** - github](https://github.com/williballenthin/idawilli) (2018-03-28)
+  * IlluminateJs is a static JavaScript deobfuscator<br>
+      [**illuminatejs** - github](https://github.com/geeksonsecurity/illuminatejs) (2018-07-25)
   * Kernel Driver Fuzzer<br>
       [**kDriver-Fuzzer** - github](https://github.com/k0keoyo/kDriver-Fuzzer) (2018-02-07)
   * Tool for dropping malware from EK<br>
