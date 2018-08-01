@@ -88,6 +88,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**DKMC** - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
   * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
       [**Docker Daemon** - Exploit-DB](https://www.exploit-db.com/exploits/42650/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-09-13)
+  * A tool mainly to erase specified records from Windows event logs, with additional functionalities<br>
+      [**EventCleaner** - github](https://github.com/360-A-Team/EventCleaner) (2018-08-01)
   * A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX<br>
       [**EvilOSX** - github](https://github.com/Marten4n6/EvilOSX) (2018-06-13)
   * Find exploits in local and online databases instantly<br>
@@ -152,6 +154,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**argon2-gpu** - github](https://gitlab.com/omos/argon2-gpu) (2017-12-06)
   * Just drop anything I have now about ASLR bypassing and fixing ;)<br>
       [**aslur** - github](https://github.com/blackzert/aslur) (2018-02-21)
+  * Prints out malicious Powershell events that have a crossproc event for c:\windows\system32\lsass.exe<br>
+      [**cbapi-ps-lsass-loop.py** - github](https://gist.github.com/curi0usJack/1ade450084b7e0b79ec892a21e56b60b) (2018-08-01)
   * A CMS Exploit Framework<br>
       [**cmsPoc** - github](https://github.com/CHYbeta/cmsPoc) (2017-12-06)
   * A Python Package for creating backdoors!<br>
