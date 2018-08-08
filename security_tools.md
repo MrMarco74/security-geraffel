@@ -142,6 +142,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**UACMe** - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/uacme-defeat-windows-user-account-control-uac/) (2017-08-23)
   * WiNX Portable: Runs for hours on a battery! #WiFi 0wnage on the move!<br>
       [**WiNX Portable** - Hacker Arsenal](https://www.hackerarsenal.com/collections/frontpage/products/winx-portable) (2017-08-23)
+  * Powershell Script To Setup Windows Port Forwarding Using Native Netsh Client<br>
+      [**Win-PortFwd** - KitPloit](https://www.kitploit.com/2018/08/win-portfwd-powershell-script-to-setup.html) (2018-08-08)
   * Elevate, UAC bypass, persistence, privilege escalation, dll hijack techniques<br>
       [**WinPwnage** - github](https://github.com/rootm0s/WinPwnage) (2018-05-02)
   * Nice collection of malware crypters<br>
@@ -160,6 +162,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**cmsPoc** - github](https://github.com/CHYbeta/cmsPoc) (2017-12-06)
   * A Python Package for creating backdoors!<br>
       [**covertutils** - 0x00sec](https://0x00sec.org/t/a-python-package-for-creating-backdoors/3170) (2017-08-09)
+  * Extract stored credentials from Internet Explorer and Edge<br>
+      [**credgrap_ie_edge** - github](https://github.com/HanseSecure/credgrap_ie_edge) (2018-08-08)
   * CVE-2018-0886 PoC<br>
       [**credssp** - github](https://github.com/preempt/credssp) (2018-04-25)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
@@ -267,6 +271,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**guppy-prox** - github](https://github.com/roglew/guppy-proxy) (2018-03-14)
   * GyoiThon - A Growing Penetration Test Tool Using Machine Learning<br>
       [**gyoithon** - kitploit](https://www.kitploit.com/2018/05/gyoithon-growing-penetration-test-tool.html) (2018-05-30)
+  * SensePost's modified hostapd for wifi attacks<br>
+      [**hostapd-mana** - github](https://github.com/sensepost/hostapd-mana) (2018-08-08)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
   * OWASP Joomla Vulnerability Scanner Project<br>
@@ -459,6 +465,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**SimplifyGraph** - FireEye](https://www.fireeye.com/blog/threat-research/2018/01/simplifying-graphs-in-ida.html) (2018-02-14)
   * Android application hooking tool based on VirtualApp<br>
       [**VirtualHook** - github](https://github.com/rk700/VirtualHook) (2018-01-31)
+  * VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor<br>
+      [**VivienneVMM** - github](https://github.com/changeofpace/VivienneVMM) (2018-08-08)
   * WinDbg Preview<br>
       [**WinDbg Preview** - Microsoft Blog](https://www.microsoft.com/en-us/store/p/windbg-preview/9pgjgd53tn86) (2017-09-27)
   * New WinDbg available in preview!<br>
