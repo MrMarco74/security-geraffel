@@ -80,6 +80,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**BinExp** - github](https://github.com/r0hi7/BinExp) (2018-05-23)
   * PoCs of Vulnerabilities on Bluedroid<br>
       [**Bluedroid** - github](https://github.com/JiounDai/Bluedroid) (2018-06-13)
+  * WhatsApp Protocol Decryption Burp Tool<br>
+      [**BurpExtension-WhatsApp-Decryption-CheckPoint** - github](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint) (2018-08-15)
   * Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability<br>
       [**CVE-2018-6871** - github](https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure) (2018-02-14)
   * Vulnerability PoCs of Android Bluetooth<br>
@@ -134,6 +136,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**SET** - github](https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/payloads/powershell/powershell_shellcode.code) (2017-08-09)
   * Seamlessly spy on SSH session like it is your tty<br>
       [**SSH Pry Spy** - github](https://github.com/nopernik/sshpry) (2017-09-27)
+  * Exploits written by the Rhino Security Labs team<br>
+      [**Security-Research** - github](https://github.com/RhinoSecurityLabs/Security-Research) (2018-08-15)
   * Pop shells like a master<br>
       [**ShellPop** - github](https://github.com/0x00-0x00/ShellPop) (2018-05-09)
   * Snifflab: An environment for testing mobile devices<br>
@@ -156,6 +160,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**argon2-gpu** - github](https://gitlab.com/omos/argon2-gpu) (2017-12-06)
   * Just drop anything I have now about ASLR bypassing and fixing ;)<br>
       [**aslur** - github](https://github.com/blackzert/aslur) (2018-02-21)
+  * Bluetooth Low Energy Swiss-army knife<br>
+      [**btlejack** - github](https://github.com/virtualabs/btlejack) (2018-08-15)
   * Prints out malicious Powershell events that have a crossproc event for c:\windows\system32\lsass.exe<br>
       [**cbapi-ps-lsass-loop.py** - github](https://gist.github.com/curi0usJack/1ade450084b7e0b79ec892a21e56b60b) (2018-08-01)
   * A CMS Exploit Framework<br>
@@ -329,6 +335,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**BloodHound** - Wald0](https://wald0.com/?p=68) (2017-09-13)
   * The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).<br>
       [**CISCO CSIRT** - github](https://github.com/ciscocsirt/gosint) (2017-08-09)
+  * CMS Detection And Exploitation Suite (Scan WordPress, Joomla, Drupal And 50 Other CMSs)<br>
+      [**CMSeeK v1.0.7** - KitPloit](https://www.kitploit.com/2018/08/cmseek-v107-cms-detection-and.html?utm_source=dlvr.it&utm_medium=twitter) (2018-08-15)
   * CapLoader is designed to simplify complex tasks, such as digging through gigabytes of PCAP data looking for traffic that sticks out or shouldn’t be there<br>
       [**CapLoader** - NetReSec](https://www.netresec.com/?page=Blog&month=2017-10&post=CapLoader-1-6-Released) (2017-10-11)
   * Multithreaded drupalgeddon2 scanner<br>
@@ -363,6 +371,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Wireshark 2.6** - Packet-Foo.com](https://blog.packet-foo.com/2018/05/wireshark-geoip-resolution-setup-v2-0/) (2018-05-09)
   * Find interesting Amazon S3 Buckets by watching certificate transparency logs<br>
       [**bucket-stream** - github](https://github.com/eth0izzle/bucket-stream) (2017-12-06)
+  * A fast and powerfull dashboard (admin) finder<br>
+      [**cangibrina** - github](https://github.com/fnk0c/cangibrina) (2018-08-15)
   * Abusing Certificate Transparency logs for getting HTTPS websites subdomains.<br>
       [**ctfr** - github](https://github.com/UnaPibaGeek/ctfr) (2018-03-14)
   * dcrawl – Web Crawler For Unique Domains<br>
@@ -529,6 +539,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**syntia** - github](https://github.com/RUB-SysSec/syntia) (2018-03-28)
   * Android Frida library to hunt Android Malware<br>
       [**uitkyk** - github](https://github.com/brompwnie/uitkyk) (2018-03-21)
+  * X41 Smartcard Fuzzer<br>
+      [**x41-smartcard-fuzzing** - github](https://github.com/x41sec/x41-smartcard-fuzzing) (2018-08-15)
 
 - - -
 
