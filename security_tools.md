@@ -88,6 +88,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**CVE-2018-9365** - github](https://github.com/JiounDai/Bluedroid/blob/master/poc_CVE-2018-9365.c) (2018-07-25)
   * DKMC - Dont kill my cat - Malicious payload evasion tool<br>
       [**DKMC** - github](https://github.com/Mr-Un1k0d3r/DKMC/) (2017-11-01)
+  * Detours with just single dependency - NTDLL<br>
+      [**DetoursNT** - github](https://github.com/wbenny/DetoursNT) (2018-08-22)
   * Docker Daemon - Unprotected TCP Socket (Metasploit)<br>
       [**Docker Daemon** - Exploit-DB](https://www.exploit-db.com/exploits/42650/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-09-13)
   * A tool mainly to erase specified records from Windows event logs, with additional functionalities<br>
@@ -142,8 +144,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ShellPop** - github](https://github.com/0x00-0x00/ShellPop) (2018-05-09)
   * Snifflab: An environment for testing mobile devices<br>
       [**Snifflab** - Open Effect](https://openeffect.ca/snifflab-an-environment-for-testing-mobile-devices/) (2017-11-22)
+  * Speculation control powershell script<br>
+      [**SpeculationControl** - github](https://github.com/Microsoft/SpeculationControl) (2018-08-22)
   * UACMe – Defeat Windows User Account Control (UAC)<br>
       [**UACMe** - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/uacme-defeat-windows-user-account-control-uac/) (2017-08-23)
+  * UEFI firmware image viewer and editor<br>
+      [**UEFITool** - github](https://github.com/LongSoft/UEFITool) (2018-08-22)
   * WiNX Portable: Runs for hours on a battery! #WiFi 0wnage on the move!<br>
       [**WiNX Portable** - Hacker Arsenal](https://www.hackerarsenal.com/collections/frontpage/products/winx-portable) (2017-08-23)
   * Powershell Script To Setup Windows Port Forwarding Using Native Netsh Client<br>
@@ -188,6 +194,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ntlmv1-multi** - github](https://github.com/evilmog/ntlmv1-multi/) (2018-06-13)
   * Quiet for Android - TCP over sound<br>
       [**org.quietmodem.Quiet** - github](https://github.com/quiet/org.quietmodem.Quiet) (2018-02-14)
+  * Direct Memory Access (DMA) Attack Software<br>
+      [**pcileech** - github](https://github.com/ufrisk/pcileech/) (2018-08-22)
   * Reaver – WPS Pin Hacking Tool<br>
       [**reaver** - github](https://github.com/t6x/reaver-wps-fork-t6x) (2017-09-05)
   * Proof of concept attack and detection for ROBOT (Return Of Bleichenbacher's Oracle Threat).<br>
@@ -355,10 +363,14 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Namechk** - github](https://github.com/HA71/Namechk) (2018-06-13)
   * AlienVault OSSIM: The World’s Most Widely Used Open Source SIEM<br>
       [**OSSIM** - Alien Vault](https://www.alienvault.com/products/ossim) (2017-10-25)
+  * Omnibus: Automating OSINT Collection<br>
+      [**Omnibus** - inQuest Blog](http://blog.inquest.net/blog/2018/08/16/omnibus-automating-osint/) (2018-08-22)
   * Crawler which extracts URLs, files, intel & endpoints from a target and is ridiculously fast<br>
       [**Photon** - github](https://github.com/s0md3v/Photon) (2018-07-25)
   * Scan for open S3 buckets and dump<br>
       [**S3Scanner** - github](https://github.com/sa7mon/S3Scanner) (2018-07-25)
+  * Simple C# for checking for the existence of credential files related to AWS, Microsoft Azure, and Google Compute<br>
+      [**SharpCloud** - github](https://github.com/chrismaddalena/SharpCloud) (2018-08-22)
   * Fast subdomains enumeration tool for penetration testers<br>
       [**Sublist3r** - github](https://github.com/aboul3la/Sublist3r) (2017-11-22)
   * Scalable, Open Source and Free Security Incident Response Solutions<br>
@@ -423,6 +435,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Bytecode Viewer** - KITPLOIT](http://www.kitploit.com/2017/08/bytecode-viewer-java-8-jar-android-apk.html) (2017-08-23)
   * DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense<br>
       [**DARKSURGEON** - github](https://github.com/cryps1s/DARKSURGEON) (2018-05-16)
+  * A PowerShell front-end for the Windows debugger engine<br>
+      [**DbgShell** - github](https://github.com/Microsoft/DbgShell) (2018-08-22)
   * DebugView++, collect, view and filter your application logs<br>
       [**DebugViewPP** - github](https://github.com/CobaltFusion/DebugViewPP) (2018-01-31)
   * Home of the dionaea honeypot<br>
