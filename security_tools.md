@@ -102,6 +102,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**GoCrack** - github](https://github.com/fireeye/gocrack) (2017-11-01)
   * Hash Buster is a program which uses several APIs to perform hash lookups<br>
       [**Hash-Buster** - github](https://github.com/UltimateHackers/Hash-Buster) (2018-06-06)
+  * Intel Management Engine JTAG Proof of Concept<br>
+      [**IntelTXE-PoC** - github](https://github.com/ptresearch/IntelTXE-PoC) (2018-08-29)
+  * This is a PoC script for various methods to acheive authenticated remote code execution via WMI, without (at least directly) using the Win32_Process class<br>
+      [**Invoke-WMILM** - github](https://github.com/Cybereason/Invoke-WMILM) (2018-08-29)
   * Encrypted exploit delivery for the masses<br>
       [**Ironsquirrel** - github](https://github.com/MRGEffitas/Ironsquirrel) (2017-11-08)
   * Kali Linux 2018.2 Release<br>
@@ -221,10 +225,16 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
       [**FruityWifi** - github](https://github.com/xtr4nge/FruityWifi) (2017-12-06)
+  * A small Windows script that downloads the latest MaxMind GeoIP databases and puts them into a folder called "GeoIP" in your Wireshark user settings directory<br>
+      [**GeoIPDBUpdate** - github](https://github.com/packetfoo/GeoIPDBUpdate) (2018-08-29)
+  * Huge collection of pentest/vuln/whatever tools<br>
+      [**GitHackTools** - GitHackTools](https://githacktools.blogspot.com/) (2018-08-29)
   * A collection of Burpsuite Intruder payloads, fuzz lists and file uploads<br>
       [**IntruderPayloads** - github](https://github.com/1N3/IntruderPayloads) (2018-05-30)
   * Kali Linux 2017.2 Release<br>
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
+  * Kali Linux 2018.3 Release<br>
+      [**Kali Linux 2018.3 Release** - Kali Linux](https://www.kali.org/releases/kali-linux-2018-3-release/) (2018-08-29)
   * SIP-Based Audit and Attack Tool<br>
       [**Mr.SIP** - github](https://github.com/meliht/mr.sip) (2017-11-29)
   * NetworkMiner 2.3 Released<br>
@@ -273,6 +283,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**chipsec** - github](https://github.com/chipsec/chipsec) (2018-06-13)
   * Stealing CSRF tokens with CSS injection (without iFrames)<br>
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
+  * Decipher hashes using online rainbow & lookup table attack services<br>
+      [**dcipher** - github](https://github.com/k4m4/dcipher) (2018-08-29)
+  * A front-end JavaScript toolkit for creating DNS rebinding attacks<br>
+      [**dns-rebind-toolkit** - github](https://github.com/brannondorsey/dns-rebind-toolkit) (2018-08-29)
   * Command-line tool to scan Google search results for vulnerabilities<br>
       [**dorkbot** - github](https://github.com/utiso/dorkbot) (2018-02-07)
   * FuzzCheck is a coverage-guided fuzzing engine for Swift packages that works with typed values instead of raw binary buffers<br>
@@ -324,6 +338,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Privacy**
 
+  * PrivacyFox tweaks various preferences in Firefox in order to enhance the privacy of users; it will also try to enforce these changes to maintain your privacy online<br>
+      [**PrivacyFox** - github](https://github.com/TheCreeper/PrivacyFox) (2018-08-29)
   * Privates, verschlüsseltes Austauschen von Dateien<br>
       [**Send Firefox Test Pilot** - firefox.com](https://send.firefox.com/) (2018-05-30)
 
@@ -403,6 +419,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**gitrob** - Michael Henriksen](http://michenriksen.com/blog/gitrob-now-in-go/) (2018-06-13)
   * Get control of your servers. Simple. Effective. Awesome!<br>
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
+  * Advanced Indicator of Compromise (IOC) extractor<br>
+      [**python-iocextract** - github](https://github.com/InQuest/python-iocextract) (2018-08-29)
   * The aim of Wordsmith is to assist with creating tailored wordlists. This is mostly based on geolocation.<br>
       [**wordsmith** - github](https://github.com/skahwah/wordsmith) (2017-10-11)
   * Yalda, Automated Bulk Intelligence<br>
