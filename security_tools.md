@@ -17,6 +17,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**VisualUefi** - github](https://github.com/ionescu007/VisualUefi) (2017-10-03)
   * Unified & Consistent Whois API & Whois Parser System<br>
       [**WhoisXMLAPI** - WhoisXMLAPI](https://www.whoisxmlapi.com/) (2017-11-22)
+  * A set of tools for graph layout and viewing<br>
+      [**automatic-graph-layout** - github](https://github.com/microsoft/automatic-graph-layout) (2018.09-05)
+  * A cat(1) clone with wings<br>
+      [**bat** - github](https://github.com/sharkdp/bat) (2018.09-05)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
   * πfs - the data-free filesystem<br>
@@ -35,6 +39,12 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Defense**
 
+  * A little tool for detecting suspicious privileged NTLM connections, in particular Pass-The-Hash attack, based on event viewer logs<br>
+      [**Ketshash** - github](https://github.com/cyberark/ketshash) (2018.09-05)
+  * Azure Security Center cmdlets. Allows managing and monitoring the security posture of your resources<br>
+      [**Microsoft Azure PowerShell** - PowerShell Gallery](https://www.powershellgallery.com/packages/AzureRM.Security/0.1.0-preview) (2018.09-05)
+  * Snort 3 beta available now<br>
+      [**Snort 3 Beta** - Snort](https://blog.snort.org/2018/08/snort-3-beta-available-now.html) (2018.09-05)
   * Block lists to prevent JavaScript miners<br>
       [**adblock-nocoin-list** - github](https://github.com/hoshsadiq/adblock-nocoin-list) (2018-03-28)
   * To block the malware domains of coin-hive systemwide.<br>
@@ -98,12 +108,18 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**EvilOSX** - github](https://github.com/Marten4n6/EvilOSX) (2018-06-13)
   * Find exploits in local and online databases instantly<br>
       [**Findsploit** - github](https://github.com/1N3/Findsploit) (2018-03-07)
+  * This project is just a dumping ground for random scripts<br>
+      [**GDA** - github](https://github.com/nullbind/Other-Projects/tree/master/GDA) (2018.09-05)
+  * A Tool for Dumping Credentials from Azure Subscriptions<br>
+      [**Get-AzurePasswords** - NETSPI](https://blog.netspi.com/get-azurepasswords/) (2018.09-05)
   * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
       [**GoCrack** - github](https://github.com/fireeye/gocrack) (2017-11-01)
   * Hash Buster is a program which uses several APIs to perform hash lookups<br>
       [**Hash-Buster** - github](https://github.com/UltimateHackers/Hash-Buster) (2018-06-06)
   * Intel Management Engine JTAG Proof of Concept<br>
       [**IntelTXE-PoC** - github](https://github.com/ptresearch/IntelTXE-PoC) (2018-08-29)
+  * Intercepter-NG is a multi functional network toolkit including an Android app for hacking, the main purpose is to recover interesting data from the network stream and perform different kinds of MiTM attacks<br>
+      [**Intercepter-NG** - IntercepterNG](http://sniff.su/) (2018.09-05)
   * This is a PoC script for various methods to acheive authenticated remote code execution via WMI, without (at least directly) using the Win32_Process class<br>
       [**Invoke-WMILM** - github](https://github.com/Cybereason/Invoke-WMILM) (2018-08-29)
   * Encrypted exploit delivery for the masses<br>
@@ -229,6 +245,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**GeoIPDBUpdate** - github](https://github.com/packetfoo/GeoIPDBUpdate) (2018-08-29)
   * Huge collection of pentest/vuln/whatever tools<br>
       [**GitHackTools** - GitHackTools](https://githacktools.blogspot.com/) (2018-08-29)
+  * Grep Extractor a Burp Extender<br>
+      [**Grep Extractor** - Geeks rejoice](https://cornerpirate.com/2018/07/24/grep-extractor-a-burp-extender/) (2018.09-05)
   * A collection of Burpsuite Intruder payloads, fuzz lists and file uploads<br>
       [**IntruderPayloads** - github](https://github.com/1N3/IntruderPayloads) (2018-05-30)
   * Kali Linux 2017.2 Release<br>
@@ -421,6 +439,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
   * Advanced Indicator of Compromise (IOC) extractor<br>
       [**python-iocextract** - github](https://github.com/InQuest/python-iocextract) (2018-08-29)
+  * Monitoring 'DNS' inside the Tor network<br>
+      [**tor-dns** - github](https://github.com/0x3a/tor-dns/) (2018.09-05)
   * The aim of Wordsmith is to assist with creating tailored wordlists. This is mostly based on geolocation.<br>
       [**wordsmith** - github](https://github.com/skahwah/wordsmith) (2017-10-11)
   * Yalda, Automated Bulk Intelligence<br>
