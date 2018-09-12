@@ -547,6 +547,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**dnSpy** - github](https://github.com/0xd4d/dnSpy) (2017-10-11)
   * An IDA Pro script for creating a clearer idb for nymaim malware<br>
       [**easy_way_nymaim** - github](https://github.com/d00rt/easy_way_nymaim/) (2018-04-25)
+  * falkervision hypervisor<br>
+      [**falkervisor_grilled_cheese** - github](https://github.com/gamozolabs/falkervisor_grilled_cheese) (2018-09-12)
   * IDA pro plugin to find crypto constants (and more)<br>
       [**findcrypt-yara** - github](https://github.com/polymorf/findcrypt-yara) (2017-12-06)
   * This is a malware manipulation environment for OpenAI’s gym<br>
@@ -569,6 +571,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
   * YARA malware query accelerator (web frontend)<br>
       [**mquery** - github](https://github.com/CERT-Polska/mquery) (2018-05-23)
+  * olefile is a Python package to parse, read and write Microsoft OLE2 files<br>
+      [**olefile 0.46** - olefile](https://olefile.readthedocs.io/en/latest/index.html) (2018-09-12)
   * oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. <br>
       [**oletools** - github](https://github.com/decalage2/oletools) (2018-02-21)
   * Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE.<br>
