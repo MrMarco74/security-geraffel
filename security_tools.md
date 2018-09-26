@@ -21,6 +21,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**automatic-graph-layout** - github](https://github.com/microsoft/automatic-graph-layout) (2018.09-05)
   * A cat(1) clone with wings<br>
       [**bat** - github](https://github.com/sharkdp/bat) (2018.09-05)
+  * Some C++ example code to demonstrate how to perform code similarity searches using SimHashing<br>
+      [**functionsimsearch** - github](https://github.com/googleprojectzero/functionsimsearch) (2018-09-26)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
   * πfs - the data-free filesystem<br>
