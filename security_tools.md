@@ -9,6 +9,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks<br>
       [**DOMPurify** - github](https://github.com/cure53/DOMPurify/releases/tag/1.0.6) (2018-07-25)
+  * Sourcegraph is now open source<br>
+      [**Sourcegraph** - Sourcegraph](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source) (2018-10-03)
   * Moving Fast and Securing Things<br>
       [**The SDL at Slack and goSDL** - slack](https://slack.engineering/moving-fast-and-securing-things-540e6c5ae58a) (2018-05-02)
   * VisualStudio Code for Linux<br>
@@ -23,6 +25,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**bat** - github](https://github.com/sharkdp/bat) (2018.09-05)
   * Some C++ example code to demonstrate how to perform code similarity searches using SimHashing<br>
       [**functionsimsearch** - github](https://github.com/googleprojectzero/functionsimsearch) (2018-09-26)
+  * A testing framework for automatically finding and simplifying bugs in graphics shader compilers<br>
+      [**graphicsfuzz** - github](https://github.com/google/graphicsfuzz) (2018-10-03)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
   * πfs - the data-free filesystem<br>
@@ -226,6 +230,13 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**shellen** - github](https://github.com/merrychap/shellen) (2018-03-07)
   * Cross Architecture Shellcode in C<br>
       [**xarch_shellcode** - github](https://github.com/ixty/xarch_shellcode) (2018-05-16)
+
+- - -
+
+**Misc**
+
+  * A collection of awesome lists, manuals, blogs, hacks, one-liners and tools for Awesome Ninja Admins<br>
+      [**awesome-ninja-admins** - github](https://github.com/trimstray/awesome-ninja-admins) (2018-10-03)
 
 - - -
 
@@ -437,6 +448,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**gitleaks** - github](https://github.com/zricethezav/gitleaks) (2018-03-07)
   * Gitrob is a command line tool which can help organizations and security professionals find sensitive information lingering in publicly available files on GitHub<br>
       [**gitrob** - Michael Henriksen](http://michenriksen.com/blog/gitrob-now-in-go/) (2018-06-13)
+  * MAC address age tracking<br>
+      [**mac-ages** - github](https://github.com/hdm/mac-ages) (2018-10-03)
   * Get control of your servers. Simple. Effective. Awesome!<br>
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
   * Advanced Indicator of Compromise (IOC) extractor<br>
