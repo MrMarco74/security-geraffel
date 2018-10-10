@@ -70,6 +70,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
   * A curated list of awesome YARA rules, tools, and people<br>
       [**awesome-yara** - github](https://github.com/InQuest/awesome-yara) (2018-06-13)
+  * Secure ELF parsing/loading library for forensics reconstruction of malware, and robust reverse engineering tools<br>
+      [**libelfmaster** - github](https://github.com/elfmaster/libelfmaster) (2018-10-10)
   * A tool/lib to encrypt/decrypt Microsoft Office Document<br>
       [**msoffice** - github](https://github.com/herumi/msoffice) (2018-06-13)
   * Collect NTFS forensic information with osquery<br>
@@ -212,6 +214,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
   * A bunch of links related to Linux kernel exploitation<br>
       [**linux-kernel-exploitation** - github](https://github.com/xairy/linux-kernel-exploitation) (2018-03-14)
+  * Fun little loader shellcode that executes an ELF in-memory using an anonymous file descriptor<br>
+      [**mem-load.asm** - github](https://gist.github.com/zznop/0117c24164ee715e750150633c7c1782) (2018-10-10)
   * Kerberos manipulation library in pure Python<br>
       [**minikerberos** - github](https://github.com/skelsec/minikerberos) (2018-06-13)
   * Nano is a family of PHP web shells which are code golfed for stealth<br>
@@ -242,6 +246,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Pentest**
 
+  * Active Directory Assessment and Privilege Escalation Script<br>
+      [**ADAPE-Script** - github](https://github.com/hausec/ADAPE-Script) (2018-10-10)
   * BadMod detect website cms & website scanner =&> Auto exploiter<br>
       [**BadMod** - github](https://github.com/MrSqar-Ye/BadMod) (2018-04-04)
   * Official Black Hat Arsenal Security Tools Repository<br>
@@ -252,6 +258,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Bumpster** - github](https://github.com/markclayton/bumpster) (2018-02-21)
   * Burpa: A Burp Suite Automation Tool<br>
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
+  * DNS server limitation mapper<br>
+      [**DNSTunnelChecker** - github](https://github.com/earthquake/DNSTunnelChecker) (2018-10-10)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
       [**FruityWifi** - github](https://github.com/xtr4nge/FruityWifi) (2017-12-06)
   * A small Windows script that downloads the latest MaxMind GeoIP databases and puts them into a folder called "GeoIP" in your Wireshark user settings directory<br>
@@ -358,6 +366,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**security-api** - github](https://github.com/deralexxx/security-apis) (2018-05-23)
   * Network share sniffer and auto-mounter for crawling remote file systems<br>
       [**sharesniffer** - github](https://github.com/shirosaidev/sharesniffer) (2018-06-13)
+  * Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling<br>
+      [**sshuttle** - github](https://github.com/sshuttle/sshuttle) (2018-10-10)
   * testssl.sh has been updated<br>
       [**testssl.sh 2.9.5-5** - packet storm](https://packetstormsecurity.com/files/147213) (2018-04-25)
   * display unicode character properties<br>
@@ -574,6 +584,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**hollows_hunter** - github](https://github.com/hasherezade/hollows_hunter) (2018-03-14)
   * 12,805 Free Yara rules created by http://icewater.io<br>
       [**icewater yara rules** - github](https://github.com/SupportIntelligence/Icewater) (2017-12-13)
+  * IDA Processor module for RSSB<br>
+      [**ida-rssb** - github](https://github.com/invano/ida-rssb) (2018-10-10)
+  * IDA Processor module for SUBLEQ<br>
+      [**ida-subleq** - github](https://github.com/invano/ida-subleq) (2018-10-10)
   * IDA Pro resources, scripts, and configurations<br>
       [**idawilli** - github](https://github.com/williballenthin/idawilli) (2018-03-28)
   * IlluminateJs is a static JavaScript deobfuscator<br>
