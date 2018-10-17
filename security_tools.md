@@ -23,6 +23,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**automatic-graph-layout** - github](https://github.com/microsoft/automatic-graph-layout) (2018.09-05)
   * A cat(1) clone with wings<br>
       [**bat** - github](https://github.com/sharkdp/bat) (2018.09-05)
+  * Shared Library to intercept nvram get/set/match calls for emulating libnvram.so used by many IoT firmware software<br>
+      [**custom_nvram** - github](https://github.com/therealsaumil/custom_nvram) (2018-10-17)
   * Some C++ example code to demonstrate how to perform code similarity searches using SimHashing<br>
       [**functionsimsearch** - github](https://github.com/googleprojectzero/functionsimsearch) (2018-09-26)
   * A testing framework for automatically finding and simplifying bugs in graphics shader compilers<br>
