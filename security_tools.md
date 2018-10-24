@@ -27,6 +27,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**custom_nvram** - github](https://github.com/therealsaumil/custom_nvram) (2018-10-17)
   * Some C++ example code to demonstrate how to perform code similarity searches using SimHashing<br>
       [**functionsimsearch** - github](https://github.com/googleprojectzero/functionsimsearch) (2018-09-26)
+  * Mirror of the Glasgow Haskell Compiler<br>
+      [**ghc** - github](https://github.com/ghc/ghc) (2018-10-24)
   * A testing framework for automatically finding and simplifying bugs in graphics shader compilers<br>
       [**graphicsfuzz** - github](https://github.com/google/graphicsfuzz) (2018-10-03)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
@@ -66,6 +68,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Bellingcat’s Digital Forensics Tools** - Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) (2018-03-07)
   * To parse ugly Microsoft DNS Logs<br>
       [**DNSplice** - github](https://github.com/nerdiosity/DNSplice) (2018-06-13)
+  * 1-Click push forensics evidence to the cloud<br>
+      [**GiftStick** - github](https://github.com/google/GiftStick) (2018-10-24)
   * Interesting Files Scanner extends Burp Suite’s active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case. Furthermore, a Burp Suite tab is present to select/unselect the checks, to avoid network overload.<br>
       [**InterestingFileScanner** - github](https://github.com/modzero/interestingFileScanner) (2018-06-06)
   * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
@@ -262,6 +266,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
   * DNS server limitation mapper<br>
       [**DNSTunnelChecker** - github](https://github.com/earthquake/DNSTunnelChecker) (2018-10-10)
+  * Faraday is a tool that introduces a new concept called IPE, or Integrated Penetration-Test Environment<br>
+      [**Faraday** - packet storm](https://packetstormsecurity.com/files/149923) (2018-10-24)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
       [**FruityWifi** - github](https://github.com/xtr4nge/FruityWifi) (2017-12-06)
   * A small Windows script that downloads the latest MaxMind GeoIP databases and puts them into a folder called "GeoIP" in your Wireshark user settings directory<br>
