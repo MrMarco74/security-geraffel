@@ -72,6 +72,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**GiftStick** - github](https://github.com/google/GiftStick) (2018-10-24)
   * Interesting Files Scanner extends Burp Suite’s active scanner, with scans for interesting files and directories. A main feature of the extension is the check for false positives with tested patterns for each case. Furthermore, a Burp Suite tab is present to select/unselect the checks, to avoid network overload.<br>
       [**InterestingFileScanner** - github](https://github.com/modzero/interestingFileScanner) (2018-06-06)
+  * A Linux version of the ProcDump Sysinternals tool<br>
+      [**ProcDump-for-Linux** - github](https://github.com/Microsoft/ProcDump-for-Linux) (2018-11-07)
   * WxTCmd is a parser for the new Windows 10 Timeline feature database<br>
       [**WxTCmd** - Forensic Blogs](https://forensicblogs.com/tag/windows-10-timeline/) (2018-05-16)
   * A curated list of awesome YARA rules, tools, and people<br>
@@ -254,6 +256,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * Active Directory Assessment and Privilege Escalation Script<br>
       [**ADAPE-Script** - github](https://github.com/hausec/ADAPE-Script) (2018-10-10)
+  * A 147 char XSS polyglot which can break out of 20+ contexts<br>
+      [**Awesome Polyglots** - github](https://github.com/s0md3v/AwesomeXSS/blob/master/README.md#awesome-polyglots) (2018-11-07)
   * BadMod detect website cms & website scanner =&> Auto exploiter<br>
       [**BadMod** - github](https://github.com/MrSqar-Ye/BadMod) (2018-04-04)
   * Official Black Hat Arsenal Security Tools Repository<br>
@@ -292,6 +296,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Nzyme** - wtf.horse](https://wtf.horse/2017/10/02/introducing-nzyme-wifi-802-11-frame-recording-and-forensics/) (2017-10-03)
   * Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. <br>
       [**PRET** - github](https://github.com/RUB-NDS/PRET) (2018-01-31)
+  * Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind<br>
+      [**Parrot Security 4.3** - Parrot Project](https://www.parrotsec.org/download.php) (2018-11-07)
   * PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction<br>
       [**PcapXray** - github](https://github.com/Srinivas11789/PcapXray) (2018-02-21)
   * A collection of open source and commercial tools that aid in red team operations<br>
@@ -346,6 +352,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**guppy-prox** - github](https://github.com/roglew/guppy-proxy) (2018-03-14)
   * GyoiThon - A Growing Penetration Test Tool Using Machine Learning<br>
       [**gyoithon** - kitploit](https://www.kitploit.com/2018/05/gyoithon-growing-penetration-test-tool.html) (2018-05-30)
+  * Halfempty is a new testcase minimization tool, designed with parallelization in mind<br>
+      [**halfempty** - github](https://github.com/googleprojectzero/halfempty#introducing-halfempty-) (2018-11-07)
   * SensePost's modified hostapd for wifi attacks<br>
       [**hostapd-mana** - github](https://github.com/sensepost/hostapd-mana) (2018-08-08)
   * jSQL – Automatic SQL Injection Tool In Java<br>
@@ -362,6 +370,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-23)
   * Update for Mod0Umleitung available<br>
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-30)
+  * LDAP library for auditing MS AD<br>
+      [**msldap** - github](https://github.com/skelsec/msldap) (2018-11-07)
   * An open source toolchain for the Hexagon DSP based off LLVM and MCLinker<br>
       [**openhexagon** - github](https://github.com/geohot/openhexagon) (2018-04-25)
   * A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications<br>
@@ -430,6 +440,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**OSSIM** - Alien Vault](https://www.alienvault.com/products/ossim) (2017-10-25)
   * Omnibus: Automating OSINT Collection<br>
       [**Omnibus** - inQuest Blog](http://blog.inquest.net/blog/2018/08/16/omnibus-automating-osint/) (2018-08-22)
+  * Basic functionality of this module is ability to quickly verify if given IP address is on any of over 80 defined DNSBL lists<br>
+      [**PSBlackListChecker** - github](https://github.com/EvotecIT/PSBlackListChecker) (2018-11-07)
   * Crawler which extracts URLs, files, intel & endpoints from a target and is ridiculously fast<br>
       [**Photon** - github](https://github.com/s0md3v/Photon) (2018-07-25)
   * Scan for open S3 buckets and dump<br>
@@ -466,6 +478,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**gitleaks** - github](https://github.com/zricethezav/gitleaks) (2018-03-07)
   * Gitrob is a command line tool which can help organizations and security professionals find sensitive information lingering in publicly available files on GitHub<br>
       [**gitrob** - Michael Henriksen](http://michenriksen.com/blog/gitrob-now-in-go/) (2018-06-13)
+  * Gitrob: Now in Go<br>
+      [**gitrob** - Michael Henriksen](https://michenriksen.com/blog/gitrob-now-in-go/) (2018-11-07)
   * MAC address age tracking<br>
       [**mac-ages** - github](https://github.com/hdm/mac-ages) (2018-10-03)
   * Get control of your servers. Simple. Effective. Awesome!<br>
