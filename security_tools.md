@@ -25,6 +25,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**bat** - github](https://github.com/sharkdp/bat) (2018.09-05)
   * Shared Library to intercept nvram get/set/match calls for emulating libnvram.so used by many IoT firmware software<br>
       [**custom_nvram** - github](https://github.com/therealsaumil/custom_nvram) (2018-10-17)
+  * Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information<br>
+      [**djangohunter** - github](https://github.com/6IX7ine/djangohunter) (2018-11-14)
   * Some C++ example code to demonstrate how to perform code similarity searches using SimHashing<br>
       [**functionsimsearch** - github](https://github.com/googleprojectzero/functionsimsearch) (2018-09-26)
   * Mirror of the Glasgow Haskell Compiler<br>
@@ -122,6 +124,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**EventCleaner** - github](https://github.com/360-A-Team/EventCleaner) (2018-08-01)
   * A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX<br>
       [**EvilOSX** - github](https://github.com/Marten4n6/EvilOSX) (2018-06-13)
+  * FCL (Fileless Command Lines) - Known command lines of fileless malicious executions<br>
+      [**FCL** - github](https://github.com/chenerlich/FCL) (2018-11-14)
   * Find exploits in local and online databases instantly<br>
       [**Findsploit** - github](https://github.com/1N3/Findsploit) (2018-03-07)
   * This project is just a dumping ground for random scripts<br>
@@ -673,3 +677,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Win32-OpenSSH** - github](https://github.com/PowerShell/Win32-OpenSSH) (2017-12-06)
   * Keybase launches encrypted git<br>
       [**encrypted git** - keybase.io](https://keybase.io/blog/encrypted-git-for-everyone) (2017-10-11)
+
+- - -
+
+**alpc-diaghub**
+
+  * Utilizing thegithub ALPC Flaw in combiniation with Diagnostics Hub as found in Server 2016 and Windows 10<br>
+      [**Utilizing thegithub ALPC Flaw in combination with Diagnostics Hub as found in Server 2016 and Windows 10** - github](https://github.com/realoriginal/alpc-diaghub) (2018-11-14)
