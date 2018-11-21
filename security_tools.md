@@ -230,6 +230,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mem-load.asm** - github](https://gist.github.com/zznop/0117c24164ee715e750150633c7c1782) (2018-10-10)
   * Kerberos manipulation library in pure Python<br>
       [**minikerberos** - github](https://github.com/skelsec/minikerberos) (2018-06-13)
+  * MSDAT: Microsoft SQL Database Attacking Tool<br>
+      [**msdat** - github](https://github.com/quentinhardy/msdat) (2018-11-21)
   * Nano is a family of PHP web shells which are code golfed for stealth<br>
       [**nano** - github](https://github.com/UltimateHackers/nano/) (2018-05-30)
   * This tool modifies NTLMv1/NTLMv1-ESS/MSCHAPv2 hashes so they can be cracked with DES Mode 14000 in hashcat<br>
@@ -262,6 +264,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ADAPE-Script** - github](https://github.com/hausec/ADAPE-Script) (2018-10-10)
   * A 147 char XSS polyglot which can break out of 20+ contexts<br>
       [**Awesome Polyglots** - github](https://github.com/s0md3v/AwesomeXSS/blob/master/README.md#awesome-polyglots) (2018-11-07)
+  * BabySploit Beginner Pentesting Toolkit/Framework Written in Python<br>
+      [**BabySploit** - github](https://github.com/M4cs/BabySploit) (2018-11-21)
   * BadMod detect website cms & website scanner =&> Auto exploiter<br>
       [**BadMod** - github](https://github.com/MrSqar-Ye/BadMod) (2018-04-04)
   * Official Black Hat Arsenal Security Tools Repository<br>
@@ -274,6 +278,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
   * DNS server limitation mapper<br>
       [**DNSTunnelChecker** - github](https://github.com/earthquake/DNSTunnelChecker) (2018-10-10)
+  * A penetration testing framework for Linux, MacOS, and Windows systems<br>
+      [**DarkSpiritz** - github](https://github.com/DarkSpiritz/DarkSpiritz) (2018-11-21)
   * Faraday is a tool that introduces a new concept called IPE, or Integrated Penetration-Test Environment<br>
       [**Faraday** - packet storm](https://packetstormsecurity.com/files/149923) (2018-10-24)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
@@ -310,6 +316,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**SAML Raider** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/saml-raider-saml2-security-testing-burp-extension/) (2017-08-16)
   * (SQLiv) massive SQL injection vulnerability scanner<br>
       [**SQLiv** - github](https://github.com/Hadesy2k/sqliv) (2017-10-25)
+  * Popular repositories of SadProcessor<br>
+      [**SadProcessor** - github](https://github.com/SadProcessor) (2018-11-21)
   * Spaghetti - Web Application Security Scanner<br>
       [**Spaghetti** - github](https://github.com/m4ll0k/Spaghetti) (2017-10-18)
   * VulnScan – Automated Triage and Root Cause Analysis of Memory Corruption Issues<br>
