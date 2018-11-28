@@ -202,6 +202,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Windows UAC Bypass** - Exploit-DB](https://www.exploit-db.com/exploits/42540/?rss&utm_source=dlvr.it&utm_medium=twitter) (2017-08-23)
   * XFLTReaT tunnelling framework<br>
       [**XFLTReaT** - github](https://github.com/earthquake/XFLTReaT) (2018-03-28)
+  * Utilizing thegithub ALPC Flaw in combiniation with Diagnostics Hub as found in Server 2016 and Windows 10<br>
+      [**alpc-diaghub** - github](https://github.com/realoriginal/alpc-diaghub) (2018-11-14)
   * GPU implementation of the Argon2 password hashing function<br>
       [**argon2-gpu** - github](https://gitlab.com/omos/argon2-gpu) (2017-12-06)
   * Just drop anything I have now about ASLR bypassing and fixing ;)<br>
@@ -230,14 +232,14 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mem-load.asm** - github](https://gist.github.com/zznop/0117c24164ee715e750150633c7c1782) (2018-10-10)
   * Kerberos manipulation library in pure Python<br>
       [**minikerberos** - github](https://github.com/skelsec/minikerberos) (2018-06-13)
-  * MSDAT: Microsoft SQL Database Attacking Tool<br>
-      [**msdat** - github](https://github.com/quentinhardy/msdat) (2018-11-21)
   * Nano is a family of PHP web shells which are code golfed for stealth<br>
       [**nano** - github](https://github.com/UltimateHackers/nano/) (2018-05-30)
   * This tool modifies NTLMv1/NTLMv1-ESS/MSCHAPv2 hashes so they can be cracked with DES Mode 14000 in hashcat<br>
       [**ntlmv1-multi** - github](https://github.com/evilmog/ntlmv1-multi/) (2018-06-13)
   * Quiet for Android - TCP over sound<br>
       [**org.quietmodem.Quiet** - github](https://github.com/quiet/org.quietmodem.Quiet) (2018-02-14)
+  * out-of-tree kernel {module, exploit} development tool<br>
+      [**out-of-tree** - github](https://github.com/jollheef/out-of-tree) (2018-11-28)
   * Direct Memory Access (DMA) Attack Software<br>
       [**pcileech** - github](https://github.com/ufrisk/pcileech/) (2018-08-22)
   * Reaver – WPS Pin Hacking Tool<br>
@@ -253,8 +255,14 @@ Please be aware, that this is just a list of topics I find interesting.**
 
 **Misc**
 
+  * The Memory Process File System<br>
+      [**MemProcFS** - github](https://github.com/ufrisk/MemProcFS) (2018-11-28)
   * A collection of awesome lists, manuals, blogs, hacks, one-liners and tools for Awesome Ninja Admins<br>
       [**awesome-ninja-admins** - github](https://github.com/trimstray/awesome-ninja-admins) (2018-10-03)
+  * Secure and fast microVMs for serverless computing<br>
+      [**firecracker** - github](https://github.com/firecracker-microvm/firecracker) (2018-11-28)
+  * Magnificent app which corrects your previous console command<br>
+      [**thefuck** - github](https://github.com/nvbn/thefuck) (2018-11-28)
 
 - - -
 
@@ -264,8 +272,6 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ADAPE-Script** - github](https://github.com/hausec/ADAPE-Script) (2018-10-10)
   * A 147 char XSS polyglot which can break out of 20+ contexts<br>
       [**Awesome Polyglots** - github](https://github.com/s0md3v/AwesomeXSS/blob/master/README.md#awesome-polyglots) (2018-11-07)
-  * BabySploit Beginner Pentesting Toolkit/Framework Written in Python<br>
-      [**BabySploit** - github](https://github.com/M4cs/BabySploit) (2018-11-21)
   * BadMod detect website cms & website scanner =&> Auto exploiter<br>
       [**BadMod** - github](https://github.com/MrSqar-Ye/BadMod) (2018-04-04)
   * Official Black Hat Arsenal Security Tools Repository<br>
@@ -278,8 +284,6 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
   * DNS server limitation mapper<br>
       [**DNSTunnelChecker** - github](https://github.com/earthquake/DNSTunnelChecker) (2018-10-10)
-  * A penetration testing framework for Linux, MacOS, and Windows systems<br>
-      [**DarkSpiritz** - github](https://github.com/DarkSpiritz/DarkSpiritz) (2018-11-21)
   * Faraday is a tool that introduces a new concept called IPE, or Integrated Penetration-Test Environment<br>
       [**Faraday** - packet storm](https://packetstormsecurity.com/files/149923) (2018-10-24)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
@@ -316,8 +320,6 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**SAML Raider** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/saml-raider-saml2-security-testing-burp-extension/) (2017-08-16)
   * (SQLiv) massive SQL injection vulnerability scanner<br>
       [**SQLiv** - github](https://github.com/Hadesy2k/sqliv) (2017-10-25)
-  * Popular repositories of SadProcessor<br>
-      [**SadProcessor** - github](https://github.com/SadProcessor) (2018-11-21)
   * Spaghetti - Web Application Security Scanner<br>
       [**Spaghetti** - github](https://github.com/m4ll0k/Spaghetti) (2017-10-18)
   * VulnScan – Automated Triage and Root Cause Analysis of Memory Corruption Issues<br>
@@ -344,6 +346,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**altdns** - github](https://github.com/infosec-au/altdns) (2018-02-07)
   * BlueCoat Filesystem Manager<br>
       [**bcfs-manager** - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
+  * Cisco Config Analysis Tool<br>
+      [**ccat** - github](https://github.com/cisco-config-analysis-tool/ccat) (2018-11-28)
   * Platform Security Assessment Framework<br>
       [**chipsec** - github](https://github.com/chipsec/chipsec) (2018-06-13)
   * Stealing CSRF tokens with CSS injection (without iFrames)<br>
@@ -422,6 +426,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ATT&CK™ Navigator** - MITRE](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-attck%E2%84%A2-navigator-a-new-open-source) (2018-03-07)
   * Security Tool to Look For Interesting Files in S3 Buckets<br>
       [**AWSBucketDump** - github](https://github.com/jordanpotti/AWSBucketDump) (2017-09-20)
+  * n-Depth DNS Enumeration and Network Mapping<br>
+      [**Amass** - github](https://github.com/OWASP/Amass) (2018-11-28)
   * A BLE scanner for "smart" devices hacking<br>
       [**BLE Scanner** - github](https://github.com/evilsocket/bleah) (2017-09-27)
   * BTLE packet sniffer based on HACKRF (function and performance similar to TI's packet sniffer)<br>
@@ -500,6 +506,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**python-iocextract** - github](https://github.com/InQuest/python-iocextract) (2018-08-29)
   * Monitoring 'DNS' inside the Tor network<br>
       [**tor-dns** - github](https://github.com/0x3a/tor-dns/) (2018.09-05)
+  * People tracker on the Internet: OSINT analysis and research tool<br>
+      [**trape** - github](https://github.com/jofpin/trape) (2018-11-28)
   * The aim of Wordsmith is to assist with creating tailored wordlists. This is mostly based on geolocation.<br>
       [**wordsmith** - github](https://github.com/skahwah/wordsmith) (2017-10-11)
   * Yalda, Automated Bulk Intelligence<br>
@@ -630,6 +638,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**kDriver-Fuzzer** - github](https://github.com/k0keoyo/kDriver-Fuzzer) (2018-02-07)
   * Tool for dropping malware from EK<br>
       [**mal_getter** - github](https://github.com/nao-sec/mal_getter) (2018-02-07)
+  * This is the main repository for metasm, a free assembler / disassembler / compiler written in ruby<br>
+      [**metasm** - github](https://github.com/jjyg/metasm) (2018-11-28)
   * PowerShell oneliner to retrieve wdigest passwords from the memory<br>
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
   * YARA malware query accelerator (web frontend)<br>
@@ -685,10 +695,3 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Win32-OpenSSH** - github](https://github.com/PowerShell/Win32-OpenSSH) (2017-12-06)
   * Keybase launches encrypted git<br>
       [**encrypted git** - keybase.io](https://keybase.io/blog/encrypted-git-for-everyone) (2017-10-11)
-
-- - -
-
-**alpc-diaghub**
-
-  * Utilizing thegithub ALPC Flaw in combiniation with Diagnostics Hub as found in Server 2016 and Windows 10<br>
-      [**Utilizing thegithub ALPC Flaw in combination with Diagnostics Hub as found in Server 2016 and Windows 10** - github](https://github.com/realoriginal/alpc-diaghub) (2018-11-14)
