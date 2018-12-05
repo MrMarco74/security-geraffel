@@ -130,6 +130,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Findsploit** - github](https://github.com/1N3/Findsploit) (2018-03-07)
   * This project is just a dumping ground for random scripts<br>
       [**GDA** - github](https://github.com/nullbind/Other-Projects/tree/master/GDA) (2018.09-05)
+  * GTRS - Google Translator Reverse Shell<br>
+      [**GTRS** - github](https://github.com/mthbernardes/GTRS) (2018-12-05)
   * A Tool for Dumping Credentials from Azure Subscriptions<br>
       [**Get-AzurePasswords** - NETSPI](https://blog.netspi.com/get-azurepasswords/) (2018.09-05)
   * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
@@ -630,6 +632,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ida-rssb** - github](https://github.com/invano/ida-rssb) (2018-10-10)
   * IDA Processor module for SUBLEQ<br>
       [**ida-subleq** - github](https://github.com/invano/ida-subleq) (2018-10-10)
+  * An IDA Python script to extract information from string constants<br>
+      [**idamagicstrings** - github](https://github.com/joxeankoret/idamagicstrings) (2018-12-05)
   * IDA Pro resources, scripts, and configurations<br>
       [**idawilli** - github](https://github.com/williballenthin/idawilli) (2018-03-28)
   * IlluminateJs is a static JavaScript deobfuscator<br>
@@ -638,6 +642,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**kDriver-Fuzzer** - github](https://github.com/k0keoyo/kDriver-Fuzzer) (2018-02-07)
   * Tool for dropping malware from EK<br>
       [**mal_getter** - github](https://github.com/nao-sec/mal_getter) (2018-02-07)
+  * Malcom - Malware Communications Analyzer<br>
+      [**malcom** - github](https://github.com/tomchop/malcom) (2018-12-05)
   * This is the main repository for metasm, a free assembler / disassembler / compiler written in ruby<br>
       [**metasm** - github](https://github.com/jjyg/metasm) (2018-11-28)
   * PowerShell oneliner to retrieve wdigest passwords from the memory<br>
