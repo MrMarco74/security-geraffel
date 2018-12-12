@@ -584,6 +584,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Posh-Sysmon** - github](https://github.com/darkoperator/Posh-Sysmon) (2018-03-07)
   * PowerShell V3.0 or higher module for interacting with the VirtusTotal service to analize suspicious files and URLs using either the Public or Private Version 2 API provided by VirusTotal.<br>
       [**Posh-VirusTotal** - github](https://github.com/darkoperator/Posh-VirusTotal) (2017-12-06)
+  * The OpenSource Disassembler<br>
+      [**REDasmOrg** - github](https://github.com/REDasmOrg) (2018-12-12)
   * The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.<br>
       [**Ransomware decryption tools** - No more ransom!](https://www.nomoreransom.org/en/index.html) (2018-03-07)
   * RetDec is a retargetable machine-code decompiler based on LLVM<br>
@@ -620,6 +622,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**falkervisor_grilled_cheese** - github](https://github.com/gamozolabs/falkervisor_grilled_cheese) (2018-09-12)
   * IDA pro plugin to find crypto constants (and more)<br>
       [**findcrypt-yara** - github](https://github.com/polymorf/findcrypt-yara) (2017-12-06)
+  * A utility to generate malicious network traffic and evaluate controls<br>
+      [**flightsim** - github](https://github.com/alphasoc/flightsim) (2018-12-12)
   * This is a malware manipulation environment for OpenAI’s gym<br>
       [**gym-malware** - github](https://github.com/endgameinc/gym-malware) (2018-01-31)
   * IDA Plugin for quickly copying disassembly as encoded hex bytes<br>
