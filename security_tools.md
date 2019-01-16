@@ -302,6 +302,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
   * Kali Linux 2018.3 Release<br>
       [**Kali Linux 2018.3 Release** - Kali Linux](https://www.kali.org/releases/kali-linux-2018-3-release/) (2018-08-29)
+  * et Another Bypass: Is 2FA Broken? Authentication Experts Weigh In<<br>
+      [**Modlishka** - Threat Post](https://threatpost.com/2fa-broken-authentication/140776/) (2019-01-16)
   * SIP-Based Audit and Attack Tool<br>
       [**Mr.SIP** - github](https://github.com/meliht/mr.sip) (2017-11-29)
   * NetworkMiner 2.3 Released<br>
@@ -596,6 +598,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Sark** - Sark](https://sark.readthedocs.io/en/latest/) (2018-03-07)
   * FLARE IDA Pro Script Series: Simplifying Graphs in IDA<br>
       [**SimplifyGraph** - FireEye](https://www.fireeye.com/blog/threat-research/2018/01/simplifying-graphs-in-ida.html) (2018-02-14)
+  * IDAPython tool for creating automatic C++ virtual tables in IDA Pro<br>
+      [**Virtuailor** - github](https://github.com/0xgalz/Virtuailor) (2019-01-16)
   * Android application hooking tool based on VirtualApp<br>
       [**VirtualHook** - github](https://github.com/rk700/VirtualHook) (2018-01-31)
   * VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor<br>
@@ -654,6 +658,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mimiDbg** - github](https://github.com/giMini/mimiDbg) (2017-12-13)
   * YARA malware query accelerator (web frontend)<br>
       [**mquery** - github](https://github.com/CERT-Polska/mquery) (2018-05-23)
+  * msoffcrypto-crack.py Version 0.0.2<br>
+      [**msoffcrypto-crack.py** - Didier Stevens](https://blog.didierstevens.com/2019/01/07/update-msoffcrypto-crack-py-version-0-0-2/) (2019-01-16)
   * olefile is a Python package to parse, read and write Microsoft OLE2 files<br>
       [**olefile 0.46** - olefile](https://olefile.readthedocs.io/en/latest/index.html) (2018-09-12)
   * oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. <br>
