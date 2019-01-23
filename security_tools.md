@@ -224,6 +224,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**credssp** - github](https://github.com/preempt/credssp) (2018-04-25)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-12-13)
+  * GUI for testing Android phones for the Rowhammer bug<br>
+      [**drammer-app** - github](ttps://github.com/vusec/drammer-app) (2019-01-23)
   * Drupal enumeration & exploitation tool<br>
       [**drupwn** - github](https://github.com/immunIT/drupwn) (2018-05-09)
   * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
@@ -302,7 +304,7 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
   * Kali Linux 2018.3 Release<br>
       [**Kali Linux 2018.3 Release** - Kali Linux](https://www.kali.org/releases/kali-linux-2018-3-release/) (2018-08-29)
-  * et Another Bypass: Is 2FA Broken? Authentication Experts Weigh In<<br>
+  * Yet Another Bypass: Is 2FA Broken? Authentication Experts Weigh In<br>
       [**Modlishka** - Threat Post](https://threatpost.com/2fa-broken-authentication/140776/) (2019-01-16)
   * SIP-Based Audit and Attack Tool<br>
       [**Mr.SIP** - github](https://github.com/meliht/mr.sip) (2017-11-29)
@@ -421,6 +423,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PrivacyFox** - github](https://github.com/TheCreeper/PrivacyFox) (2018-08-29)
   * Privates, verschlüsseltes Austauschen von Dateien<br>
       [**Send Firefox Test Pilot** - firefox.com](https://send.firefox.com/) (2018-05-30)
+  * Hardentools is a utility that disables a number of risky Windows features<br>
+      [**hardentools** - github](https://github.com/securitywithoutborders/hardentools) (2019-01-23)
 
 - - -
 
@@ -640,6 +644,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ida-rssb** - github](https://github.com/invano/ida-rssb) (2018-10-10)
   * IDA Processor module for SUBLEQ<br>
       [**ida-subleq** - github](https://github.com/invano/ida-subleq) (2018-10-10)
+  * IDA Processor for Compiled YARA Rules<br>
+      [**ida-yara-processor** - github](https://github.com/bnbdr/ida-yara-processor) (2019-01-23)
   * An IDA Python script to extract information from string constants<br>
       [**idamagicstrings** - github](https://github.com/joxeankoret/idamagicstrings) (2018-12-05)
   * IDA Pro resources, scripts, and configurations<br>
