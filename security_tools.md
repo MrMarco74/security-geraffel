@@ -352,6 +352,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**altdns** - github](https://github.com/infosec-au/altdns) (2018-02-07)
   * BlueCoat Filesystem Manager<br>
       [**bcfs-manager** - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
+  * The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks<br>
+      [**bettercap** - github](https://github.com/bettercap/bettercap) (2019-01-31)
   * Cisco Config Analysis Tool<br>
       [**ccat** - github](https://github.com/cisco-config-analysis-tool/ccat) (2018-11-28)
   * Platform Security Assessment Framework<br>
@@ -378,6 +380,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**halfempty** - github](https://github.com/googleprojectzero/halfempty#introducing-halfempty-) (2018-11-07)
   * SensePost's modified hostapd for wifi attacks<br>
       [**hostapd-mana** - github](https://github.com/sensepost/hostapd-mana) (2018-08-08)
+  * Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment<br>
+      [**icebreaker** - github](https://github.com/DanMcInerney/icebreaker) (2019-01-31)
   * jSQL – Automatic SQL Injection Tool In Java<br>
       [**jSQL** - Darknet.org.uk](https://www.darknet.org.uk/2017/08/jsql-automatic-sql-injection-tool/) (2017-08-16)
   * OWASP Joomla Vulnerability Scanner Project<br>
@@ -396,6 +400,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**msldap** - github](https://github.com/skelsec/msldap) (2018-11-07)
   * An open source toolchain for the Hexagon DSP based off LLVM and MCLinker<br>
       [**openhexagon** - github](https://github.com/geohot/openhexagon) (2018-04-25)
+  * Post Exploitation Collection - This repository is a collection of the post exploitation voodoo from too many sources to name<br>
+      [**post-exploitation** - github](https://github.com/mubix/post-exploitation) (2019-01-31)
+  * Exchange your privileges for Domain Admin privs by abusing Exchange<br>
+      [**privexchange** - github](https://github.com/dirkjanm/privexchange/) (2019-01-31)
   * A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications<br>
       [**pyt** - github](https://github.com/python-security/pyt) (2018-04-25)
   * Remote Desktop Protocol in Twisted Python<br>
