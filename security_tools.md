@@ -102,6 +102,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * A toolset to make a system look as if it was the victim of an APT attack<br>
       [**APTSimulator** - github](https://github.com/Neo23x0/APTSimulator) (2018-02-07)
+  * Patch Binaries via MITM: BackdoorFactory + mitmProxy<br>
+      [**BDFProxy** - github](https://github.com/secretsquirrel/BDFProxy) (2019-02-06)
   * Blind SQL injection exploitation tool written in ruby.<br>
       [**BSQLinjector** - github](https://github.com/enjoiz/BSQLinjector) (2017-09-27)
   * Linux Binary Exploitation<br>
