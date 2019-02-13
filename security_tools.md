@@ -138,6 +138,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Get-AzurePasswords** - NETSPI](https://blog.netspi.com/get-azurepasswords/) (2018.09-05)
   * GoCrack provides APIs to manage password cracking tasks across supported cracking engines<br>
       [**GoCrack** - github](https://github.com/fireeye/gocrack) (2017-11-01)
+  * Gorsair hacks its way into remote docker containers that expose their APIs<br>
+      [**Gorsair** - github](https://github.com/Ullaakut/Gorsair) (2019-02-13)
   * Hash Buster is a program which uses several APIs to perform hash lookups<br>
       [**Hash-Buster** - github](https://github.com/UltimateHackers/Hash-Buster) (2018-06-06)
   * Intel Management Engine JTAG Proof of Concept<br>
@@ -148,6 +150,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Invoke-WMILM** - github](https://github.com/Cybereason/Invoke-WMILM) (2018-08-29)
   * Encrypted exploit delivery for the masses<br>
       [**Ironsquirrel** - github](https://github.com/MRGEffitas/Ironsquirrel) (2017-11-08)
+  * KSOCKET provides a very basic example on how to make a network connections in the Windows Driver by using WSK<br>
+      [**KSOCKET** - github](https://github.com/wbenny/KSOCKET) (2019-02-13)
   * Kali Linux 2018.2 Release<br>
       [**Kali Linux** - Kali.org](https://www.kali.org/news/kali-linux-2018-2-release/) (2018-05-02)
   * Kali Linux for WSL now available in the Windows Store<br>
@@ -174,8 +178,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PoC||GTFO** - github](https://github.com/corkami/docs/blob/master/pocorgtfo.md) (2018-05-02)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
       [**Posh-SSH** - KITPLOIT](http://www.kitploit.com/2017/08/posh-ssh-powershell-module-for.html) (2017-08-30)
+  * A PowerShell TCP/IP swiss army knife<br>
+      [**PowerCat** - github](https://github.com/secabstraction/PowerCat) (2019-02-13)
   * Post-exploitation tool for hiding processes from monitoring applications<br>
       [**ProcessHider** - github](https://github.com/M00nRise/ProcessHider) (2018-05-23)
+  * Rubeus is a C# toolset for raw Kerberos interaction and abuses<br>
+      [**Rubeus** - github](https://github.com/GhostPack/Rubeus) (2019-02-13)
   * Automated Generation of Proofs of Vulnerability with S2E<br>
       [**S2E Docs** - github](https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst) (2018-02-21)
   * The Social-Engineer Toolkit (SET) repository from TrustedSec<br>
@@ -236,6 +244,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**linux-kernel-exploitation** - github](https://github.com/xairy/linux-kernel-exploitation) (2018-03-14)
   * Fun little loader shellcode that executes an ELF in-memory using an anonymous file descriptor<br>
       [**mem-load.asm** - github](https://gist.github.com/zznop/0117c24164ee715e750150633c7c1782) (2018-10-10)
+  * Binary coverage tool without binary modification for Windows<br>
+      [**mesos** - github](https://github.com/gamozolabs/mesos) (2019-02-13)
   * Kerberos manipulation library in pure Python<br>
       [**minikerberos** - github](https://github.com/skelsec/minikerberos) (2018-06-13)
   * Nano is a family of PHP web shells which are code golfed for stealth<br>
@@ -254,6 +264,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**robot-detect** - github](https://github.com/robotattackorg/robot-detect) (2018-02-07)
   * Interactive shellcoding environment to easily craft shellcodes<br>
       [**shellen** - github](https://github.com/merrychap/shellen) (2018-03-07)
+  * A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system<br>
+      [**windowsblindread** - github](https://github.com/soffensive/windowsblindread) (2019-02-13)
   * Cross Architecture Shellcode in C<br>
       [**xarch_shellcode** - github](https://github.com/ixty/xarch_shellcode) (2018-05-16)
 
@@ -360,6 +372,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**ccat** - github](https://github.com/cisco-config-analysis-tool/ccat) (2018-11-28)
   * Platform Security Assessment Framework<br>
       [**chipsec** - github](https://github.com/chipsec/chipsec) (2018-06-13)
+  * Cowrie SSH/Telnet Honeypot<br>
+      [**cowrie** - github](https://github.com/cowrie/cowrie) (2019-02-13)
   * Stealing CSRF tokens with CSS injection (without iFrames)<br>
       [**cssInjection** - github](https://github.com/dxa4481/cssInjection) (2018-02-07)
   * Decipher hashes using online rainbow & lookup table attack services<br>
@@ -520,6 +534,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mac-ages** - github](https://github.com/hdm/mac-ages) (2018-10-03)
   * Get control of your servers. Simple. Effective. Awesome!<br>
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
+  * A tool designed to traverse phishing URL paths to search for phishing kit source code<br>
+      [**phishfinder** - github](https://github.com/cybercdh/phishfinder) (2019-02-13)
   * Advanced Indicator of Compromise (IOC) extractor<br>
       [**python-iocextract** - github](https://github.com/InQuest/python-iocextract) (2018-08-29)
   * Monitoring 'DNS' inside the Tor network<br>
@@ -556,6 +572,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Binary Ninja Plugins** - github](https://github.com/Vector35/community-plugins/tree/master/plugins) (2017-11-22)
   * Bytecode Viewer - A Java 8 Jar & Android Apk Reverse Engineering Suite (Decompiler, Editor, Debugger & More)<br>
       [**Bytecode Viewer** - KITPLOIT](http://www.kitploit.com/2017/08/bytecode-viewer-java-8-jar-android-apk.html) (2017-08-23)
+  * Security analysis toolkit for proprietary car protocols<br>
+      [**CANalyzat0r** - github](https://github.com/schutzwerk/CANalyzat0r) (2019-02-13)
   * DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense<br>
       [**DARKSURGEON** - github](https://github.com/cryps1s/DARKSURGEON) (2018-05-16)
   * A PowerShell front-end for the Windows debugger engine<br>
@@ -660,6 +678,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**idamagicstrings** - github](https://github.com/joxeankoret/idamagicstrings) (2018-12-05)
   * IDA Pro resources, scripts, and configurations<br>
       [**idawilli** - github](https://github.com/williballenthin/idawilli) (2018-03-28)
+  * Library Function Identification<br>
+      [**idenLib** - github](https://github.com/secrary/idenLib) (2019-02-13)
   * IlluminateJs is a static JavaScript deobfuscator<br>
       [**illuminatejs** - github](https://github.com/geeksonsecurity/illuminatejs) (2018-07-25)
   * Kernel Driver Fuzzer<br>
