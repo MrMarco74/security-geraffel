@@ -170,6 +170,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Memcrashed-DDoS-Exploit** - github](https://github.com/649/Memcrashed-DDoS-Exploit) (2018-03-14)
   * Researchers ported the NSA  EternalSynergy, EternalRomance, and EternalChampion to Metasploit<br>
       [**NSA exploits in Metasploit** - security affairs](http://securityaffairs.co/wordpress/68768/hacking/eternalsynergy-eternalromance-eternalchampion-metasploit.html) (2018-02-14)
+  * A quick and dirty way to bypass encrypted EPA to connect to a NetScaler Gateway<br>
+      [**NetScalerEPABypass** - github](https://github.com/Lucky0x0D/NetScalerEPABypass) (2019-02-20)
   * This directory contains packet capture files of injections seen in the Bad Traffic Citizen Lab report.<br>
       [**PCAP Bad Traffic Citizen Lab Report** - github](https://github.com/citizenlab/badtraffic/tree/master/pcaps) (2018-03-14)
   * FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software<br>
@@ -258,6 +260,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**out-of-tree** - github](https://github.com/jollheef/out-of-tree) (2018-11-28)
   * Direct Memory Access (DMA) Attack Software<br>
       [**pcileech** - github](https://github.com/ufrisk/pcileech/) (2018-08-22)
+  * Source code of an old fuzzer, pe-afl, which applies static binary instrumentation, aka binary rewriting, on PE file<br>
+      [**pe-afl** - github](https://github.com/wmliang/pe-afl) (2019-02-20)
   * Reaver – WPS Pin Hacking Tool<br>
       [**reaver** - github](https://github.com/t6x/reaver-wps-fork-t6x) (2017-09-05)
   * Proof of concept attack and detection for ROBOT (Return Of Bleichenbacher's Oracle Threat).<br>
@@ -300,6 +304,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Bumpster** - github](https://github.com/markclayton/bumpster) (2018-02-21)
   * Burpa: A Burp Suite Automation Tool<br>
       [**Burpa** - github](https://github.com/0x4D31/burpa/blob/master/README.md) (2017-08-09)
+  * Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers<br>
+      [**Covenant** - github](https://github.com/cobbr/Covenant) (2019-02-20)
   * DNS server limitation mapper<br>
       [**DNSTunnelChecker** - github](https://github.com/earthquake/DNSTunnelChecker) (2018-10-10)
   * Faraday is a tool that introduces a new concept called IPE, or Integrated Penetration-Test Environment<br>
@@ -308,6 +314,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**FruityWifi** - github](https://github.com/xtr4nge/FruityWifi) (2017-12-06)
   * A small Windows script that downloads the latest MaxMind GeoIP databases and puts them into a folder called "GeoIP" in your Wireshark user settings directory<br>
       [**GeoIPDBUpdate** - github](https://github.com/packetfoo/GeoIPDBUpdate) (2018-08-29)
+  * Powershell module to get the NetNTLMv2 hash of the current user<br>
+      [**Get-NetNTLM** - github](https://github.com/elnerd/Get-NetNTLM) (2019-02-20)
   * Huge collection of pentest/vuln/whatever tools<br>
       [**GitHackTools** - GitHackTools](https://githacktools.blogspot.com/) (2018-08-29)
   * Grep Extractor a Burp Extender<br>
@@ -426,6 +434,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**rdpy** - github](https://github.com/citronneur/rdpy) (2017-11-22)
   * Simple program that allows you to run commands as another user without being prompted for their password.<br>
       [**runsharp** - github](https://github.com/fullmetalcache/runsharp) (2018-02-07)
+  * Generate XML file for "immediate scheduled task" GPO configuration<br>
+      [**schtask_now** - github](https://github.com/airman604/schtask_now) (2019-02-20)
   * A collective list of public JSON APIs for use in security<br>
       [**security-api** - github](https://github.com/deralexxx/security-apis) (2018-05-23)
   * Network share sniffer and auto-mounter for crawling remote file systems<br>
