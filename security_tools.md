@@ -31,6 +31,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**functionsimsearch** - github](https://github.com/googleprojectzero/functionsimsearch) (2018-09-26)
   * Mirror of the Glasgow Haskell Compiler<br>
       [**ghc** - github](https://github.com/ghc/ghc) (2018-10-24)
+  * The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More<br>
+      [**grafana** - github](https://github.com/grafana/grafana) (2019-02-27)
   * A testing framework for automatically finding and simplifying bugs in graphics shader compilers<br>
       [**graphicsfuzz** - github](https://github.com/google/graphicsfuzz) (2018-10-03)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
@@ -268,6 +270,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**robot-detect** - github](https://github.com/robotattackorg/robot-detect) (2018-02-07)
   * Interactive shellcoding environment to easily craft shellcodes<br>
       [**shellen** - github](https://github.com/merrychap/shellen) (2018-03-07)
+  * This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.<br>
+      [**thc-hydra** - github](https://github.com/vanhauser-thc/thc-hydra) (2019-02-27)
   * A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system<br>
       [**windowsblindread** - github](https://github.com/soffensive/windowsblindread) (2019-02-13)
   * Cross Architecture Shellcode in C<br>
