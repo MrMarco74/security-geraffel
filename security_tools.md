@@ -272,6 +272,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**shellen** - github](https://github.com/merrychap/shellen) (2018-03-07)
   * This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.<br>
       [**thc-hydra** - github](https://github.com/vanhauser-thc/thc-hydra) (2019-02-27)
+  * Windows Exploit Suggester - Next Generation<br>
+      [**wesng** - github](https://github.com/bitsadmin/wesng) (2019-03-06)
   * A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system<br>
       [**windowsblindread** - github](https://github.com/soffensive/windowsblindread) (2019-02-13)
   * Cross Architecture Shellcode in C<br>
