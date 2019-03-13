@@ -35,6 +35,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**grafana** - github](https://github.com/grafana/grafana) (2019-02-27)
   * A testing framework for automatically finding and simplifying bugs in graphics shader compilers<br>
       [**graphicsfuzz** - github](https://github.com/google/graphicsfuzz) (2018-10-03)
+  * A library for prototyping realtime hand detection (bounding box), directly in the browser<br>
+      [**handtrack.js** - github](https://github.com/victordibia/handtrack.js) (2019-03-13)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
   * πfs - the data-free filesystem<br>
@@ -178,6 +180,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PCAP Bad Traffic Citizen Lab Report** - github](https://github.com/citizenlab/badtraffic/tree/master/pcaps) (2018-03-14)
   * FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software<br>
       [**PCILeech FPGA** - github](https://github.com/ufrisk/pcileech-fpga) (2018-02-14)
+  * A targeted password brute force tool<br>
+      [**PassGen** - github](https://github.com/Broham/PassGen) (2019-03-13)
   * PoC||GTFO<br>
       [**PoC||GTFO** - github](https://github.com/corkami/docs/blob/master/pocorgtfo.md) (2018-05-02)
   * Posh-SSH - PowerShell Module for automating tasks on remote systems using SSH<br>
@@ -186,6 +190,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**PowerCat** - github](https://github.com/secabstraction/PowerCat) (2019-02-13)
   * Post-exploitation tool for hiding processes from monitoring applications<br>
       [**ProcessHider** - github](https://github.com/M00nRise/ProcessHider) (2018-05-23)
+  * Windows RID Hijacking persistence technique<br>
+      [**RID-Hijacking** - github](https://github.com/r4wd3r/RID-Hijacking) (2019-03-13)
   * Rubeus is a C# toolset for raw Kerberos interaction and abuses<br>
       [**Rubeus** - github](https://github.com/GhostPack/Rubeus) (2019-02-13)
   * Automated Generation of Proofs of Vulnerability with S2E<br>
@@ -206,6 +212,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**UACMe** - Darknet.Org.Uk](https://www.darknet.org.uk/2017/08/uacme-defeat-windows-user-account-control-uac/) (2017-08-23)
   * UEFI firmware image viewer and editor<br>
       [**UEFITool** - github](https://github.com/LongSoft/UEFITool) (2018-08-22)
+  * A Bring Your Own Land Toolkit that Doubles as a WMI Provider<br>
+      [**WheresMyImplant** - github](https://github.com/0xbadjuju/WheresMyImplant) (2019-03-13)
   * WiNX Portable: Runs for hours on a battery! #WiFi 0wnage on the move!<br>
       [**WiNX Portable** - Hacker Arsenal](https://www.hackerarsenal.com/collections/frontpage/products/winx-portable) (2017-08-23)
   * Powershell Script To Setup Windows Port Forwarding Using Native Netsh Client<br>
@@ -332,6 +340,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
   * Kali Linux 2018.3 Release<br>
       [**Kali Linux 2018.3 Release** - Kali Linux](https://www.kali.org/releases/kali-linux-2018-3-release/) (2018-08-29)
+  * Auditing, system hardening, compliance testing<br>
+      [**Lynis** - lynis](https://cisofy.com/lynis/) (2019-03-13)
   * Yet Another Bypass: Is 2FA Broken? Authentication Experts Weigh In<br>
       [**Modlishka** - Threat Post](https://threatpost.com/2fa-broken-authentication/140776/) (2019-01-16)
   * SIP-Based Audit and Attack Tool<br>
@@ -378,6 +388,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**airbash** - github](https://github.com/tehw0lf/airbash) (2018-05-16)
   * Generates permutations, alterations and mutations of subdomains and then resolves them<br>
       [**altdns** - github](https://github.com/infosec-au/altdns) (2018-02-07)
+  * Security auditing tool for Azure environments<br>
+      [**azucar** - github](https://github.com/nccgroup/azucar/) (2019-03-13)
   * BlueCoat Filesystem Manager<br>
       [**bcfs-manager** - github](https://github.com/ernw/bcfs-manager) (2017-11-01)
   * The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks<br>
@@ -454,6 +466,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**unicode** - github](https://github.com/garabik/unicode) (2018-02-07)
   * Nikto for Windows with some extra features.<br>
       [**wikto** - github](https://github.com/sensepost/wikto/) (2017-09-05)
+  * Deserialization payload generator for a variety of .NET formatters<br>
+      [**ysoserial.net** - github](https://github.com/pwntester/ysoserial.net) (2019-03-13)
 
 - - -
 
@@ -584,6 +598,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Any Run** - Any Run](https://any.run) (2018-04-04)
   * Archery is an opensource vulnerability assessment and management tool which helps developers and pentesters to perform scans and manage vulnerabilities<br>
       [**Archery** - Archery](http://archerysec.info/) (2018-02-14)
+  * BinDiff 5 for IDA 7.2. Windows. Linux. macOS<br>
+      [**BinDiff** - zynamics](https://www.zynamics.com/software.html) (2019-03-13)
   * Binary Ninja Plugins<br>
       [**Binary Ninja Plugins** - github](https://github.com/Vector35/community-plugins/tree/master/plugins) (2017-11-22)
   * Bytecode Viewer - A Java 8 Jar & Android Apk Reverse Engineering Suite (Decompiler, Editor, Debugger & More)<br>
@@ -736,6 +752,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**syntia** - github](https://github.com/RUB-SysSec/syntia) (2018-03-28)
   * Android Frida library to hunt Android Malware<br>
       [**uitkyk** - github](https://github.com/brompwnie/uitkyk) (2018-03-21)
+  * A bunch of JavaScript extensions for WinDbg<br>
+      [**windbg-scripts** - github](https://github.com/0vercl0k/windbg-scripts) (2019-03-13)
   * X41 Smartcard Fuzzer<br>
       [**x41-smartcard-fuzzing** - github](https://github.com/x41sec/x41-smartcard-fuzzing) (2018-08-15)
 
