@@ -9,6 +9,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks<br>
       [**DOMPurify** - github](https://github.com/cure53/DOMPurify/releases/tag/1.0.6) (2018-07-25)
+  * Go Machine<br>
+      [**GoMachine** - github](https://github.com/DeliciousHorse/writeups/blob/master/TeaserConfidence2019/GoMachine/README.md) (2019-03-20)
   * Sourcegraph is now open source<br>
       [**Sourcegraph** - Sourcegraph](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source) (2018-10-03)
   * Moving Fast and Securing Things<br>
@@ -244,6 +246,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**credgrap_ie_edge** - github](https://github.com/HanseSecure/credgrap_ie_edge) (2018-08-08)
   * CVE-2018-0886 PoC<br>
       [**credssp** - github](https://github.com/preempt/credssp) (2018-04-25)
+  * Cobalt Strike cna script for randomized argument spoofing<br>
+      [**deckbuilder** - github](https://github.com/1c3be4r/deckbuilder) (2019-03-20)
   * Domain name permutation engine for detecting typo squatting, phishing and corporate espionage<br>
       [**dnstwist** - github](https://github.com/elceef/dnstwist) (2017-12-13)
   * GUI for testing Android phones for the Rowhammer bug<br>
@@ -564,6 +568,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mac-ages** - github](https://github.com/hdm/mac-ages) (2018-10-03)
   * Get control of your servers. Simple. Effective. Awesome!<br>
       [**netdata** - github](https://github.com/firehol/netdata/) (2017-12-06)
+  * OSINT Resource Classification System<br>
+      [**orcs** - github](https://github.com/webbreacher/orcs) (2019-03-20)
   * A tool designed to traverse phishing URL paths to search for phishing kit source code<br>
       [**phishfinder** - github](https://github.com/cybercdh/phishfinder) (2019-02-13)
   * Advanced Indicator of Compromise (IOC) extractor<br>
