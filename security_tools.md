@@ -446,6 +446,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**msldap** - github](https://github.com/skelsec/msldap) (2018-11-07)
   * An open source toolchain for the Hexagon DSP based off LLVM and MCLinker<br>
       [**openhexagon** - github](https://github.com/geohot/openhexagon) (2018-04-25)
+  * pretty network packets in your terminal<br>
+      [**pdml2sbud** - shift or die](https://shiftordie.de/blog/2019/03/26/pdml2sbud/) (2019-03-27)
   * Post Exploitation Collection - This repository is a collection of the post exploitation voodoo from too many sources to name<br>
       [**post-exploitation** - github](https://github.com/mubix/post-exploitation) (2019-01-31)
   * Exchange your privileges for Domain Admin privs by abusing Exchange<br>
@@ -508,6 +510,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**CapLoader** - NetReSec](https://www.netresec.com/?page=Blog&month=2017-10&post=CapLoader-1-6-Released) (2017-10-11)
   * Multithreaded drupalgeddon2 scanner<br>
       [**Drupalgeddon2_scanner** - github](https://github.com/0x4148/Drupalgeddon2_scanner) (2018-04-25)
+  * Endlessh: an SSH Tarpit<br>
+      [**Endlessh** - null program](https://nullprogram.com/blog/2019/03/22/) (2019-03-27)
   * Exitmap - A Fast and Modular Scanner for TOR Exit Relays<br>
       [**Exitmap** - KitPloit](http://www.kitploit.com/2017/10/exitmap-fast-and-modular-scanner-for.html) (2017-11-01)
   * Tool for advanced mining for content on Github<br>
