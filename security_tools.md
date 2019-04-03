@@ -254,6 +254,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**drammer-app** - github](ttps://github.com/vusec/drammer-app) (2019-01-23)
   * Drupal enumeration & exploitation tool<br>
       [**drupwn** - github](https://github.com/immunIT/drupwn) (2018-05-09)
+  * AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation<br>
+      [**fireprox** - github](https://github.com/ustayready/fireprox) (2019-04-03)
   * CVE-2017-13082: Key Reinstall in FT Handshake (802.11r)<br>
       [**krackattacks** - github](https://github.com/vanhoefm/krackattacks-test-ap-ft) (2017-10-25)
   * A bunch of links related to Linux kernel exploitation<br>
@@ -326,6 +328,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Covenant** - github](https://github.com/cobbr/Covenant) (2019-02-20)
   * DNS server limitation mapper<br>
       [**DNSTunnelChecker** - github](https://github.com/earthquake/DNSTunnelChecker) (2018-10-10)
+  * Scan MSSQL databases for payment card data without relying on key words<br>
+      [**DataLoc** - github](https://github.com/NetSPI/DataLoc) (2019-04-03)
+  * Faker is a PHP library that generates fake data for you<br>
+      [**Faker** - github](https://github.com/fzaninotto/Faker) (2019-04-03)
   * Faraday is a tool that introduces a new concept called IPE, or Integrated Penetration-Test Environment<br>
       [**Faraday** - packet storm](https://packetstormsecurity.com/files/149923) (2018-10-24)
   * FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.<br>
@@ -362,6 +368,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**Parrot Security 4.3** - Parrot Project](https://www.parrotsec.org/download.php) (2018-11-07)
   * PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction<br>
       [**PcapXray** - github](https://github.com/Srinivas11789/PcapXray) (2018-02-21)
+  * A Python Package for Data Exfiltration - Version 1.0.0 Update<br>
+      [**PyExfil** - github](https://github.com/ytisf/PyExfil) (2019-04-03)
   * A collection of open source and commercial tools that aid in red team operations<br>
       [**Red-Teaming-Toolkit** - github](https://github.com/infosecn1nja/Red-Teaming-Toolkit) (2018-05-02)
   * SAML Raider – SAML2 Security Testing Burp Extension<br>
@@ -444,6 +452,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mod0Umleitung** - github](https://modzero.github.io/mod0Umleitung/) (2017-08-30)
   * LDAP library for auditing MS AD<br>
       [**msldap** - github](https://github.com/skelsec/msldap) (2018-11-07)
+  * A MT940 parser in Rust<br>
+      [**mt940-rs** - github](https://github.com/svenstaro/mt940-rs) (2019-04-03)
   * An open source toolchain for the Hexagon DSP based off LLVM and MCLinker<br>
       [**openhexagon** - github](https://github.com/geohot/openhexagon) (2018-04-25)
   * pretty network packets in your terminal<br>
@@ -462,6 +472,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**schtask_now** - github](https://github.com/airman604/schtask_now) (2019-02-20)
   * A collective list of public JSON APIs for use in security<br>
       [**security-api** - github](https://github.com/deralexxx/security-apis) (2018-05-23)
+  * Check capabilities of european payment providers who participate in the SEPA system<br>
+      [**sepa-clearer** - github](https://github.com/railslove/sepa-clearer) (2019-04-03)
   * Network share sniffer and auto-mounter for crawling remote file systems<br>
       [**sharesniffer** - github](https://github.com/shirosaidev/sharesniffer) (2018-06-13)
   * Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling<br>
@@ -702,6 +714,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**findcrypt-yara** - github](https://github.com/polymorf/findcrypt-yara) (2017-12-06)
   * A utility to generate malicious network traffic and evaluate controls<br>
       [**flightsim** - github](https://github.com/alphasoc/flightsim) (2018-12-12)
+  * A JavaScript Engine Fuzzer<br>
+      [**fuzzilli** - github](https://github.com/googleprojectzero/fuzzilli) (2019-04-03)
   * This is a malware manipulation environment for OpenAI’s gym<br>
       [**gym-malware** - github](https://github.com/endgameinc/gym-malware) (2018-01-31)
   * IDA Plugin for quickly copying disassembly as encoded hex bytes<br>
