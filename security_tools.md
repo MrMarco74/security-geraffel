@@ -41,6 +41,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**handtrack.js** - github](https://github.com/victordibia/handtrack.js) (2019-03-13)
   * .NET implementation of LibProtection library - an alternative implementation of the standard functionality of the formatted and interpolated strings. It provides a realtime automatic protection from any class of the injection attacks, which belong to the most attacked languages (HTML, URL, JavaScript, SQL and the file paths are currently supported).<br>
       [**libprotection-dotnet** - github](https://github.com/LibProtection/libprotection-dotnet) (2017-12-06)
+  * A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost<br>
+      [**orange_slice** - github](https://github.com/gamozolabs/orange_slice) (2019-04-10)
   * πfs - the data-free filesystem<br>
       [**pifs** - github](https://github.com/philipl/pifs) (2018-03-21)
   * A high-level framework for developing efficient zk-SNARK circuits<br>
@@ -504,6 +506,8 @@ Please be aware, that this is just a list of topics I find interesting.**
 
   * The ATT&CK™ Navigator: A New Open Source Project<br>
       [**ATT&CK™ Navigator** - MITRE](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-attck%E2%84%A2-navigator-a-new-open-source) (2018-03-07)
+  * A datasource assessment on an event level to show potential ATT&CK coverage<br>
+      [**ATTACKdatamap** - github](https://github.com/olafhartong/ATTACKdatamap) (2019-04-10)
   * Security Tool to Look For Interesting Files in S3 Buckets<br>
       [**AWSBucketDump** - github](https://github.com/jordanpotti/AWSBucketDump) (2017-09-20)
   * n-Depth DNS Enumeration and Network Mapping<br>
