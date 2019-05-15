@@ -268,8 +268,12 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**mesos** - github](https://github.com/gamozolabs/mesos) (2019-02-13)
   * Kerberos manipulation library in pure Python<br>
       [**minikerberos** - github](https://github.com/skelsec/minikerberos) (2018-06-13)
+  * Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities<br>
+      [**muraena** - github](https://github.com/muraenateam/muraena) (2019-05-15)
   * Nano is a family of PHP web shells which are code golfed for stealth<br>
       [**nano** - github](https://github.com/UltimateHackers/nano/) (2018-05-30)
+  * Necrobrowser is browser instrumentation for necromantic session control<br>
+      [**necrobrowser** - github](https://github.com/muraenateam/necrobrowser) (2019-05-15)
   * This tool modifies NTLMv1/NTLMv1-ESS/MSCHAPv2 hashes so they can be cracked with DES Mode 14000 in hashcat<br>
       [**ntlmv1-multi** - github](https://github.com/evilmog/ntlmv1-multi/) (2018-06-13)
   * Quiet for Android - TCP over sound<br>
@@ -534,6 +538,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**GitMiner** - github](https://github.com/UnkL4b/GitMiner) (2017-08-30)
   * Harpoon: an OSINT / Threat Intelligence tool<br>
       [**Harpoon** - Tek's blog](https://www.randhome.io/blog/2018/02/23/harpoon-an-osint-/-threat-intelligence-tool/) (2018-03-07)
+  * A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code<br>
+      [**IDDQD_Godmode_Rule** - github](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44) (2019-05-15)
   * Iris Investigation Platform<br>
       [**Iris** - Domaintools](https://www.domaintools.com/products/iris/) (2017-11-22)
   * Investigate malicious Windows logon by visualizing and analyzing Windows event log<br>
@@ -646,6 +652,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**EKFiddle** - github](https://github.com/malwareinfosec/EKFiddle) (2017-09-27)
   * Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection<br>
       [**Evalyzer** - github](https://github.com/szimeus/evalyzer) (2017-10-25)
+  * Ghidra Program Analysis Library<br>
+      [**GhidraPAL** - github](https://github.com/RolfRolles/GhidraPAL) (2019-05-15)
   * IDA Pro 7.1 released<br>
       [**IDA Pro 7.1** - Hex-Rays](https://www.hex-rays.com/products/ida/7.1/index.shtml) (2018-03-07)
   * A set of exploitation/reversing aids for IDA<br>
@@ -720,6 +728,10 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**flightsim** - github](https://github.com/alphasoc/flightsim) (2018-12-12)
   * A JavaScript Engine Fuzzer<br>
       [**fuzzilli** - github](https://github.com/googleprojectzero/fuzzilli) (2019-04-03)
+  * IDC script for decrypting strings in the GandCrab v5.1-5.3<br>
+      [**gandcrab_string_decryptor** - github](https://github.com/laciKE/gandcrab_string_decryptor) (2019-05-15)
+  * Plugin for Ghidra to assist reversing Golang binaries<br>
+      [**gotools** - github](https://github.com/felberj/gotools) (2019-05-15)
   * This is a malware manipulation environment for OpenAI’s gym<br>
       [**gym-malware** - github](https://github.com/endgameinc/gym-malware) (2018-01-31)
   * IDA Plugin for quickly copying disassembly as encoded hex bytes<br>
