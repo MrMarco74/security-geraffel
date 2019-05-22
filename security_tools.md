@@ -356,6 +356,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**KaLi Linux** - kali](https://www.kali.org/news/kali-linux-2017-2-release/) (2017-09-27)
   * Kali Linux 2018.3 Release<br>
       [**Kali Linux 2018.3 Release** - Kali Linux](https://www.kali.org/releases/kali-linux-2018-3-release/) (2018-08-29)
+  * Kali Linux 2018.2 Release<br>
+      [**Kali Linux 2018.3 Release** - Kali Linux](https://www.kali.org/news/kali-linux-2019-2-release/) (2019-05-21)
   * Auditing, system hardening, compliance testing<br>
       [**Lynis** - lynis](https://cisofy.com/lynis/) (2019-03-13)
   * Yet Another Bypass: Is 2FA Broken? Authentication Experts Weigh In<br>
@@ -394,6 +396,8 @@ Please be aware, that this is just a list of topics I find interesting.**
       [**WPSeku** - github](https://github.com/m4ll0k/WPSeku) (2017-11-08)
   * Web Service Security Assessment Tool: WSSAT<br>
       [**WSSAT** - n0where](https://n0where.net/web-service-security-assessment-tool-wssat) (2018-04-25)
+  * WebDAV, NTLM & Responder<br>
+      [**WebDAV, NTLM & Responder** - Didier Stevens](https://blog.didierstevens.com/2019/05/20/webdav-ntlm-responder/) (2019-05-21)
   * Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods<br>
       [**XXEinjector** - github](https://github.com/enjoiz/XXEinjector) (2018-05-09)
   * The Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.<br>
